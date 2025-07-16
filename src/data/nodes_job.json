@@ -1,0 +1,1486 @@
+[
+  {
+    "id": "cbe_job_01",
+    "name": "AI 技术工程师",
+    "layer": 2,
+    "description": "AI 技术工程师是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "技术",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_02",
+    "name": "AIGC技术：加快跨境电商发展",
+    "layer": 2,
+    "description": "AIGC技术：加快跨境电商发展是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "技术",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_03",
+    "name": "B2B模式下的客服岗位",
+    "layer": 2,
+    "description": "B2B模式下的客服岗位是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "客服",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_04",
+    "name": "B2B模式下的市场岗位",
+    "layer": 2,
+    "description": "B2B模式下的市场岗位是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "市场",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_05",
+    "name": "B2B模式下的物流岗位",
+    "layer": 2,
+    "description": "B2B模式下的物流岗位是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "物流",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_06",
+    "name": "B2B模式下的运营岗位",
+    "layer": 2,
+    "description": "B2B模式下的运营岗位是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "运营",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_07",
+    "name": "B2C模式下的客服岗位",
+    "layer": 2,
+    "description": "B2C模式下的客服岗位是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "客服",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_08",
+    "name": "B2C模式下的市场岗位",
+    "layer": 2,
+    "description": "B2C模式下的市场岗位是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "市场",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_09",
+    "name": "B2C模式下的物流岗位",
+    "layer": 2,
+    "description": "B2C模式下的物流岗位是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "物流",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_10",
+    "name": "B2C模式下的运营岗位",
+    "layer": 2,
+    "description": "B2C模式下的运营岗位是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "运营",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_11",
+    "name": "DTC模式下的客服岗位",
+    "layer": 2,
+    "description": "DTC模式下的客服岗位是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "客服",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_12",
+    "name": "DTC模式下的市场岗位",
+    "layer": 2,
+    "description": "DTC模式下的市场岗位是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "市场",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_13",
+    "name": "DTC模式下的物流岗位",
+    "layer": 2,
+    "description": "DTC模式下的物流岗位是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "物流",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_14",
+    "name": "DTC模式下的运营岗位",
+    "layer": 2,
+    "description": "DTC模式下的运营岗位是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "运营",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_15",
+    "name": "SLAM 算法工程师",
+    "layer": 2,
+    "description": "SLAM 算法工程师是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "技术",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_16",
+    "name": "中级客服岗位",
+    "layer": 2,
+    "description": "中级客服岗位是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "中级",
+    "department": "客服",
+    "salary_range": "12-25万",
+    "experience_requirement": "3-5年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_17",
+    "name": "中级市场岗位",
+    "layer": 2,
+    "description": "中级市场岗位是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "中级",
+    "department": "市场",
+    "salary_range": "12-25万",
+    "experience_requirement": "3-5年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_18",
+    "name": "中级物流岗位",
+    "layer": 2,
+    "description": "中级物流岗位是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "中级",
+    "department": "物流",
+    "salary_range": "12-25万",
+    "experience_requirement": "3-5年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_19",
+    "name": "中级运营岗位",
+    "layer": 2,
+    "description": "中级运营岗位是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "中级",
+    "department": "运营",
+    "salary_range": "12-25万",
+    "experience_requirement": "3-5年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_20",
+    "name": "产品开发类岗位",
+    "layer": 2,
+    "description": "产品开发类岗位是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "技术",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_21",
+    "name": "兼具跨境电商运营能力和物流供应链管理知识的复合型人才",
+    "layer": 2,
+    "description": "兼具跨境电商运营能力和物流供应链管理知识的复合型人才是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "运营",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_22",
+    "name": "初级客服岗位",
+    "layer": 2,
+    "description": "初级客服岗位是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "客服",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_23",
+    "name": "初级市场岗位",
+    "layer": 2,
+    "description": "初级市场岗位是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "市场",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_24",
+    "name": "初级物流岗位",
+    "layer": 2,
+    "description": "初级物流岗位是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "物流",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_25",
+    "name": "初级运营岗位",
+    "layer": 2,
+    "description": "初级运营岗位是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "运营",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_26",
+    "name": "国际化人才",
+    "layer": 2,
+    "description": "国际化人才是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "综合",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_27",
+    "name": "国际站 AI 运营",
+    "layer": 2,
+    "description": "国际站 AI 运营是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "技术",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_28",
+    "name": "复合型人才",
+    "layer": 2,
+    "description": "复合型人才是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "综合",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_29",
+    "name": "市场 + 数据复合型人才",
+    "layer": 2,
+    "description": "市场 + 数据复合型人才是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "市场",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_30",
+    "name": "市场类岗位",
+    "layer": 2,
+    "description": "市场类岗位是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "市场",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_31",
+    "name": "数据分析师",
+    "layer": 2,
+    "description": "数据分析师是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "综合",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_32",
+    "name": "数据分析类岗位",
+    "layer": 2,
+    "description": "数据分析类岗位是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "综合",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_33",
+    "name": "本地化运营人才",
+    "layer": 2,
+    "description": "本地化运营人才是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "运营",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_34",
+    "name": "物流 + 供应链复合型人才",
+    "layer": 2,
+    "description": "物流 + 供应链复合型人才是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "物流",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_35",
+    "name": "物流与供应链人才",
+    "layer": 2,
+    "description": "物流与供应链人才是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "物流",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_36",
+    "name": "物流类岗位",
+    "layer": 2,
+    "description": "物流类岗位是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "物流",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_37",
+    "name": "独立站运营类岗位",
+    "layer": 2,
+    "description": "独立站运营类岗位是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "运营",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_38",
+    "name": "硕士学历人才（特定技术岗）",
+    "layer": 2,
+    "description": "硕士学历人才（特定技术岗）是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "技术",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_39",
+    "name": "算法工程师",
+    "layer": 2,
+    "description": "算法工程师是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "技术",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_40",
+    "name": "绿色供应链人才",
+    "layer": 2,
+    "description": "绿色供应链人才是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "物流",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_41",
+    "name": "计算机/网络/技术类岗位",
+    "layer": 2,
+    "description": "计算机/网络/技术类岗位是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "技术",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_42",
+    "name": "语言 + 专业复合型人才",
+    "layer": 2,
+    "description": "语言 + 专业复合型人才是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "综合",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_43",
+    "name": "跨境电商合规管理员",
+    "layer": 2,
+    "description": "跨境电商合规管理员是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "运营",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_44",
+    "name": "跨境电商数据分析师",
+    "layer": 2,
+    "description": "跨境电商数据分析师是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "综合",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_45",
+    "name": "跨境电商金融与支付人才",
+    "layer": 2,
+    "description": "跨境电商金融与支付人才是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "综合",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_46",
+    "name": "运营 + 技术复合型人才",
+    "layer": 2,
+    "description": "运营 + 技术复合型人才是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "技术",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_47",
+    "name": "运营类岗位",
+    "layer": 2,
+    "description": "运营类岗位是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "运营",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_48",
+    "name": "销售类岗位",
+    "layer": 2,
+    "description": "销售类岗位是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "综合",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_49",
+    "name": "高端技术人才",
+    "layer": 2,
+    "description": "高端技术人才是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "初级",
+    "department": "技术",
+    "salary_range": "8-15万",
+    "experience_requirement": "1-3年",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_50",
+    "name": "高级客服岗位",
+    "layer": 2,
+    "description": "高级客服岗位是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "高级",
+    "department": "客服",
+    "salary_range": "20-40万",
+    "experience_requirement": "5年以上",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_51",
+    "name": "高级市场岗位",
+    "layer": 2,
+    "description": "高级市场岗位是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "高级",
+    "department": "市场",
+    "salary_range": "20-40万",
+    "experience_requirement": "5年以上",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_52",
+    "name": "高级物流岗位",
+    "layer": 2,
+    "description": "高级物流岗位是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "高级",
+    "department": "物流",
+    "salary_range": "20-40万",
+    "experience_requirement": "5年以上",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  },
+  {
+    "id": "cbe_job_53",
+    "name": "高级运营岗位",
+    "layer": 2,
+    "description": "高级运营岗位是跨境电商行业的专业岗位，承担着特定的业务职责，为企业发展做出重要贡献。",
+    "level": "高级",
+    "department": "运营",
+    "salary_range": "20-40万",
+    "experience_requirement": "5年以上",
+    "size": 28,
+    "color": "#3b82f6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该岗位实体出现在四元关系表中，代表跨境电商行业的重要职位",
+    "recruitment_evidence": "该岗位需求稳定，是行业发展的重要支撑",
+    "core_responsibilities": [
+      "专业技能应用",
+      "业务流程优化",
+      "团队协作配合",
+      "持续学习提升"
+    ],
+    "skill_requirements": [
+      "专业技能",
+      "沟通能力",
+      "学习能力",
+      "团队协作"
+    ],
+    "career_progression": "根据个人发展意向选择专业深化或管理路线"
+  }
+]

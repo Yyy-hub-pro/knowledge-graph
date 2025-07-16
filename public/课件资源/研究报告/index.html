@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>跨境电商研究报告目录</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 16px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #2d3748 0%, #1a202c 100%);
+            color: white;
+            padding: 40px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+        
+        .header p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+        
+        .reports-grid {
+            padding: 40px;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 30px;
+        }
+        
+        .report-card {
+            background: #f8fafc;
+            border-radius: 12px;
+            padding: 30px;
+            border: 2px solid #e2e8f0;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+        
+        .report-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 35px rgba(0,0,0,0.1);
+            border-color: #667eea;
+        }
+        
+        .report-number {
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+        
+        .report-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: #2d3748;
+            margin-bottom: 15px;
+            line-height: 1.4;
+        }
+        
+        .report-description {
+            color: #64748b;
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+        
+        .report-meta {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding-top: 15px;
+            border-top: 1px solid #e2e8f0;
+        }
+        
+        .report-type {
+            background: #667eea;
+            color: white;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.875rem;
+            font-weight: 500;
+        }
+        
+        .report-size {
+            color: #64748b;
+            font-size: 0.875rem;
+        }
+        
+        .back-button {
+            position: fixed;
+            top: 20px;
+            left: 20px;
+            background: rgba(255,255,255,0.9);
+            color: #2d3748;
+            padding: 12px 20px;
+            border-radius: 25px;
+            text-decoration: none;
+            font-weight: 500;
+            backdrop-filter: blur(10px);
+            transition: all 0.3s ease;
+            border: 1px solid rgba(255,255,255,0.2);
+        }
+        
+        .back-button:hover {
+            background: white;
+            transform: translateY(-2px);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+        }
+        
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 2rem;
+            }
+            
+            .reports-grid {
+                grid-template-columns: 1fr;
+                padding: 20px;
+            }
+            
+            .header {
+                padding: 30px 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <a href="/knowledge-graph/" class="back-button">← 返回知识图谱</a>
+    
+    <div class="container">
+        <div class="header">
+            <h1>跨境电商研究报告</h1>
+            <p>基于知识图谱构建的专业研究成果</p>
+        </div>
+        
+        <div class="reports-grid">
+            <div class="report-card" onclick="openReport('（1.1产-岗）北京地区跨境电商专业人才需求与培养研究报告：聚焦《跨境电商物流与全球供应链》课程.md')">
+                <div class="report-number">1</div>
+                <div class="report-title">产业-岗位需求研究报告</div>
+                <div class="report-description">
+                    深入分析北京地区跨境电商专业人才需求现状，探讨产业发展趋势对岗位需求的驱动作用，为课程体系构建提供数据支撑。
+                </div>
+                <div class="report-meta">
+                    <div class="report-type">产业→岗位</div>
+                    <div class="report-size">80KB · 1062行</div>
+                </div>
+            </div>
+            
+            <div class="report-card" onclick="openReport('（2岗-技）北京地区跨境电商岗位技能要求深度研究报告.md')">
+                <div class="report-number">2</div>
+                <div class="report-title">岗位-技能需求研究报告</div>
+                <div class="report-description">
+                    系统梳理跨境电商核心岗位的技能要求体系，分析技能需求的层次结构和发展趋势，构建岗位-技能映射关系。
+                </div>
+                <div class="report-meta">
+                    <div class="report-type">岗位→技能</div>
+                    <div class="report-size">60KB · 2033行</div>
+                </div>
+            </div>
+            
+            <div class="report-card" onclick="openReport('（3技-知）跨境电商岗位人才需求关键技能与《跨境电商物流与全球供应链》课程体系构建研究报告.md')">
+                <div class="report-number">3</div>
+                <div class="report-title">技能-知识体系研究报告</div>
+                <div class="report-description">
+                    探讨关键技能与知识基础的内在联系，构建系统的课程体系框架，为跨境电商物流与全球供应链教学提供理论依据。
+                </div>
+                <div class="report-meta">
+                    <div class="report-type">技能→知识</div>
+                    <div class="report-size">71KB · 1148行</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        function openReport(filename) {
+            // 在新窗口中打开报告文件
+            window.open(filename, '_blank');
+        }
+        
+        // 添加键盘快捷键支持
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape') {
+                window.close();
+            }
+        });
+    </script>
+</body>
+</html> 

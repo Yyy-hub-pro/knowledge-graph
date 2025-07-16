@@ -1,0 +1,3572 @@
+[
+  {
+    "id": "cbe_skill_01",
+    "name": "%@运营类岗位@%",
+    "layer": 3,
+    "description": "%@运营类岗位@%是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解%@运营类岗位@%的基本概念和操作方法",
+      "进阶": "熟练运用%@运营类岗位@%解决实际问题",
+      "精通": "能够创新性地应用%@运营类岗位@%并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_02",
+    "name": "AI 分析工具应用 (数觉 AI, 数跨境 BI)",
+    "layer": 3,
+    "description": "AI 分析工具应用 (数觉 AI, 数跨境 BI)是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "高级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解AI 分析工具应用 (数觉 AI, 数跨境 BI)的基本概念和操作方法",
+      "进阶": "熟练运用AI 分析工具应用 (数觉 AI, 数跨境 BI)解决实际问题",
+      "精通": "能够创新性地应用AI 分析工具应用 (数觉 AI, 数跨境 BI)并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_03",
+    "name": "AI 工具应用能力",
+    "layer": 3,
+    "description": "AI 工具应用能力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "高级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解AI 工具应用能力的基本概念和操作方法",
+      "进阶": "熟练运用AI 工具应用能力解决实际问题",
+      "精通": "能够创新性地应用AI 工具应用能力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_04",
+    "name": "AI算法开发与模型优化能力",
+    "layer": 3,
+    "description": "AI算法开发与模型优化能力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "技术技能",
+    "difficulty_level": "高级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解AI算法开发与模型优化能力的基本概念和操作方法",
+      "进阶": "熟练运用AI算法开发与模型优化能力解决实际问题",
+      "精通": "能够创新性地应用AI算法开发与模型优化能力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_05",
+    "name": "SEO优化工具知识（阿里巴巴国际站）",
+    "layer": 3,
+    "description": "SEO优化工具知识（阿里巴巴国际站）是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解SEO优化工具知识（阿里巴巴国际站）的基本概念和操作方法",
+      "进阶": "熟练运用SEO优化工具知识（阿里巴巴国际站）解决实际问题",
+      "精通": "能够创新性地应用SEO优化工具知识（阿里巴巴国际站）并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_06",
+    "name": "专业内容创作能力 (B2B)",
+    "layer": 3,
+    "description": "专业内容创作能力 (B2B)是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解专业内容创作能力 (B2B)的基本概念和操作方法",
+      "进阶": "熟练运用专业内容创作能力 (B2B)解决实际问题",
+      "精通": "能够创新性地应用专业内容创作能力 (B2B)并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_07",
+    "name": "专业咨询能力 (B2B)",
+    "layer": 3,
+    "description": "专业咨询能力 (B2B)是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解专业咨询能力 (B2B)的基本概念和操作方法",
+      "进阶": "熟练运用专业咨询能力 (B2B)解决实际问题",
+      "精通": "能够创新性地应用专业咨询能力 (B2B)并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_08",
+    "name": "专业数据分析工具应用 (Tableau, PowerBI)",
+    "layer": 3,
+    "description": "专业数据分析工具应用 (Tableau, PowerBI)是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解专业数据分析工具应用 (Tableau, PowerBI)的基本概念和操作方法",
+      "进阶": "熟练运用专业数据分析工具应用 (Tableau, PowerBI)解决实际问题",
+      "精通": "能够创新性地应用专业数据分析工具应用 (Tableau, PowerBI)并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_09",
+    "name": "个人陈述能力",
+    "layer": 3,
+    "description": "个人陈述能力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解个人陈述能力的基本概念和操作方法",
+      "进阶": "熟练运用个人陈述能力解决实际问题",
+      "精通": "能够创新性地应用个人陈述能力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_10",
+    "name": "产品优化能力 (标题、关键词、图片、描述)",
+    "layer": 3,
+    "description": "产品优化能力 (标题、关键词、图片、描述)是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解产品优化能力 (标题、关键词、图片、描述)的基本概念和操作方法",
+      "进阶": "熟练运用产品优化能力 (标题、关键词、图片、描述)解决实际问题",
+      "精通": "能够创新性地应用产品优化能力 (标题、关键词、图片、描述)并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_11",
+    "name": "产品创新能力 (DTC)",
+    "layer": 3,
+    "description": "产品创新能力 (DTC)是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解产品创新能力 (DTC)的基本概念和操作方法",
+      "进阶": "熟练运用产品创新能力 (DTC)解决实际问题",
+      "精通": "能够创新性地应用产品创新能力 (DTC)并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_12",
+    "name": "产品选品能力 (B2C)",
+    "layer": 3,
+    "description": "产品选品能力 (B2C)是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解产品选品能力 (B2C)的基本概念和操作方法",
+      "进阶": "熟练运用产品选品能力 (B2C)解决实际问题",
+      "精通": "能够创新性地应用产品选品能力 (B2C)并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_13",
+    "name": "仓储与库存管理",
+    "layer": 3,
+    "description": "仓储与库存管理是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "管理技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解仓储与库存管理的基本概念和操作方法",
+      "进阶": "熟练运用仓储与库存管理解决实际问题",
+      "精通": "能够创新性地应用仓储与库存管理并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_14",
+    "name": "企业创造性项目设计",
+    "layer": 3,
+    "description": "企业创造性项目设计是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解企业创造性项目设计的基本概念和操作方法",
+      "进阶": "熟练运用企业创造性项目设计解决实际问题",
+      "精通": "能够创新性地应用企业创造性项目设计并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_15",
+    "name": "优化报关流程，降低通关风险",
+    "layer": 3,
+    "description": "优化报关流程，降低通关风险是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解优化报关流程，降低通关风险的基本概念和操作方法",
+      "进阶": "熟练运用优化报关流程，降低通关风险解决实际问题",
+      "精通": "能够创新性地应用优化报关流程，降低通关风险并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_16",
+    "name": "供应商管理能力",
+    "layer": 3,
+    "description": "供应商管理能力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "管理技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解供应商管理能力的基本概念和操作方法",
+      "进阶": "熟练运用供应商管理能力解决实际问题",
+      "精通": "能够创新性地应用供应商管理能力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_17",
+    "name": "供应链与物流管理能力",
+    "layer": 3,
+    "description": "供应链与物流管理能力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "管理技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解供应链与物流管理能力的基本概念和操作方法",
+      "进阶": "熟练运用供应链与物流管理能力解决实际问题",
+      "精通": "能够创新性地应用供应链与物流管理能力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_18",
+    "name": "供应链优化能力",
+    "layer": 3,
+    "description": "供应链优化能力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解供应链优化能力的基本概念和操作方法",
+      "进阶": "熟练运用供应链优化能力解决实际问题",
+      "精通": "能够创新性地应用供应链优化能力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_19",
+    "name": "供应链协同能力",
+    "layer": 3,
+    "description": "供应链协同能力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解供应链协同能力的基本概念和操作方法",
+      "进阶": "熟练运用供应链协同能力解决实际问题",
+      "精通": "能够创新性地应用供应链协同能力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_20",
+    "name": "供应链建模与仿真",
+    "layer": 3,
+    "description": "供应链建模与仿真是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解供应链建模与仿真的基本概念和操作方法",
+      "进阶": "熟练运用供应链建模与仿真解决实际问题",
+      "精通": "能够创新性地应用供应链建模与仿真并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_21",
+    "name": "供应链网络设计、需求管理、库存管理和物流配送",
+    "layer": 3,
+    "description": "供应链网络设计、需求管理、库存管理和物流配送是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "管理技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解供应链网络设计、需求管理、库存管理和物流配送的基本概念和操作方法",
+      "进阶": "熟练运用供应链网络设计、需求管理、库存管理和物流配送解决实际问题",
+      "精通": "能够创新性地应用供应链网络设计、需求管理、库存管理和物流配送并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_22",
+    "name": "供应链风险管理和应对策略",
+    "layer": 3,
+    "description": "供应链风险管理和应对策略是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "管理技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解供应链风险管理和应对策略的基本概念和操作方法",
+      "进阶": "熟练运用供应链风险管理和应对策略解决实际问题",
+      "精通": "能够创新性地应用供应链风险管理和应对策略并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_23",
+    "name": "全球供应链管理的核心要素分析方法与策略选择方式",
+    "layer": 3,
+    "description": "全球供应链管理的核心要素分析方法与策略选择方式是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "管理技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解全球供应链管理的核心要素分析方法与策略选择方式的基本概念和操作方法",
+      "进阶": "熟练运用全球供应链管理的核心要素分析方法与策略选择方式解决实际问题",
+      "精通": "能够创新性地应用全球供应链管理的核心要素分析方法与策略选择方式并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_24",
+    "name": "关务知识",
+    "layer": 3,
+    "description": "关务知识是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解关务知识的基本概念和操作方法",
+      "进阶": "熟练运用关务知识解决实际问题",
+      "精通": "能够创新性地应用关务知识并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_25",
+    "name": "关务管理能力",
+    "layer": 3,
+    "description": "关务管理能力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "管理技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解关务管理能力的基本概念和操作方法",
+      "进阶": "熟练运用关务管理能力解决实际问题",
+      "精通": "能够创新性地应用关务管理能力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_26",
+    "name": "内容营销与创作能力",
+    "layer": 3,
+    "description": "内容营销与创作能力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "营销技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解内容营销与创作能力的基本概念和操作方法",
+      "进阶": "熟练运用内容营销与创作能力解决实际问题",
+      "精通": "能够创新性地应用内容营销与创作能力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_27",
+    "name": "准备和审核报关文件",
+    "layer": 3,
+    "description": "准备和审核报关文件是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解准备和审核报关文件的基本概念和操作方法",
+      "进阶": "熟练运用准备和审核报关文件解决实际问题",
+      "精通": "能够创新性地应用准备和审核报关文件并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_28",
+    "name": "分析平台数据，优化产品布局和销售策略",
+    "layer": 3,
+    "description": "分析平台数据，优化产品布局和销售策略是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解分析平台数据，优化产品布局和销售策略的基本概念和操作方法",
+      "进阶": "熟练运用分析平台数据，优化产品布局和销售策略解决实际问题",
+      "精通": "能够创新性地应用分析平台数据，优化产品布局和销售策略并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_29",
+    "name": "创新创业能力",
+    "layer": 3,
+    "description": "创新创业能力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解创新创业能力的基本概念和操作方法",
+      "进阶": "熟练运用创新创业能力解决实际问题",
+      "精通": "能够创新性地应用创新创业能力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_30",
+    "name": "创新思维",
+    "layer": 3,
+    "description": "创新思维是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解创新思维的基本概念和操作方法",
+      "进阶": "熟练运用创新思维解决实际问题",
+      "精通": "能够创新性地应用创新思维并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_31",
+    "name": "利用大数据进行精准营销和用户画像",
+    "layer": 3,
+    "description": "利用大数据进行精准营销和用户画像是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "营销技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解利用大数据进行精准营销和用户画像的基本概念和操作方法",
+      "进阶": "熟练运用利用大数据进行精准营销和用户画像解决实际问题",
+      "精通": "能够创新性地应用利用大数据进行精准营销和用户画像并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_32",
+    "name": "制定客户关系管理策略，提高客户满意度和忠诚度",
+    "layer": 3,
+    "description": "制定客户关系管理策略，提高客户满意度和忠诚度是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "营销技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解制定客户关系管理策略，提高客户满意度和忠诚度的基本概念和操作方法",
+      "进阶": "熟练运用制定客户关系管理策略，提高客户满意度和忠诚度解决实际问题",
+      "精通": "能够创新性地应用制定客户关系管理策略，提高客户满意度和忠诚度并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_33",
+    "name": "制定跨境电商物流策略和规划的能力",
+    "layer": 3,
+    "description": "制定跨境电商物流策略和规划的能力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解制定跨境电商物流策略和规划的能力的基本概念和操作方法",
+      "进阶": "熟练运用制定跨境电商物流策略和规划的能力解决实际问题",
+      "精通": "能够创新性地应用制定跨境电商物流策略和规划的能力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_34",
+    "name": "合同管理能力 (B2B)",
+    "layer": 3,
+    "description": "合同管理能力 (B2B)是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "管理技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解合同管理能力 (B2B)的基本概念和操作方法",
+      "进阶": "熟练运用合同管理能力 (B2B)解决实际问题",
+      "精通": "能够创新性地应用合同管理能力 (B2B)并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_35",
+    "name": "合规经营意识",
+    "layer": 3,
+    "description": "合规经营意识是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解合规经营意识的基本概念和操作方法",
+      "进阶": "熟练运用合规经营意识解决实际问题",
+      "精通": "能够创新性地应用合规经营意识并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_36",
+    "name": "合规运营方法与风险管理",
+    "layer": 3,
+    "description": "合规运营方法与风险管理是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "管理技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解合规运营方法与风险管理的基本概念和操作方法",
+      "进阶": "熟练运用合规运营方法与风险管理解决实际问题",
+      "精通": "能够创新性地应用合规运营方法与风险管理并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_37",
+    "name": "品牌建设能力",
+    "layer": 3,
+    "description": "品牌建设能力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "营销技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解品牌建设能力的基本概念和操作方法",
+      "进阶": "熟练运用品牌建设能力解决实际问题",
+      "精通": "能够创新性地应用品牌建设能力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_38",
+    "name": "商务谈判能力 (B2B)",
+    "layer": 3,
+    "description": "商务谈判能力 (B2B)是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解商务谈判能力 (B2B)的基本概念和操作方法",
+      "进阶": "熟练运用商务谈判能力 (B2B)解决实际问题",
+      "精通": "能够创新性地应用商务谈判能力 (B2B)并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_39",
+    "name": "团队协作能力",
+    "layer": 3,
+    "description": "团队协作能力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解团队协作能力的基本概念和操作方法",
+      "进阶": "熟练运用团队协作能力解决实际问题",
+      "精通": "能够创新性地应用团队协作能力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_40",
+    "name": "团队管理能力",
+    "layer": 3,
+    "description": "团队管理能力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "管理技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解团队管理能力的基本概念和操作方法",
+      "进阶": "熟练运用团队管理能力解决实际问题",
+      "精通": "能够创新性地应用团队管理能力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_41",
+    "name": "国际货运与货代",
+    "layer": 3,
+    "description": "国际货运与货代是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解国际货运与货代的基本概念和操作方法",
+      "进阶": "熟练运用国际货运与货代解决实际问题",
+      "精通": "能够创新性地应用国际货运与货代并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_42",
+    "name": "基本营销技能",
+    "layer": 3,
+    "description": "基本营销技能是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "营销技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解基本营销技能的基本概念和操作方法",
+      "进阶": "熟练运用基本营销技能解决实际问题",
+      "精通": "能够创新性地应用基本营销技能并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_43",
+    "name": "基础编程能力 (HTML, CSS)",
+    "layer": 3,
+    "description": "基础编程能力 (HTML, CSS)是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "技术技能",
+    "difficulty_level": "基础",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解基础编程能力 (HTML, CSS)的基本概念和操作方法",
+      "进阶": "熟练运用基础编程能力 (HTML, CSS)解决实际问题",
+      "精通": "能够创新性地应用基础编程能力 (HTML, CSS)并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_44",
+    "name": "处理客户咨询、投诉和退换货请求",
+    "layer": 3,
+    "description": "处理客户咨询、投诉和退换货请求是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "营销技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解处理客户咨询、投诉和退换货请求的基本概念和操作方法",
+      "进阶": "熟练运用处理客户咨询、投诉和退换货请求解决实际问题",
+      "精通": "能够创新性地应用处理客户咨询、投诉和退换货请求并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_45",
+    "name": "大宗货物运输能力 (B2B)",
+    "layer": 3,
+    "description": "大宗货物运输能力 (B2B)是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解大宗货物运输能力 (B2B)的基本概念和操作方法",
+      "进阶": "熟练运用大宗货物运输能力 (B2B)解决实际问题",
+      "精通": "能够创新性地应用大宗货物运输能力 (B2B)并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_46",
+    "name": "学习能力与适应能力",
+    "layer": 3,
+    "description": "学习能力与适应能力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解学习能力与适应能力的基本概念和操作方法",
+      "进阶": "熟练运用学习能力与适应能力解决实际问题",
+      "精通": "能够创新性地应用学习能力与适应能力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_47",
+    "name": "定制化物流能力 (DTC)",
+    "layer": 3,
+    "description": "定制化物流能力 (DTC)是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解定制化物流能力 (DTC)的基本概念和操作方法",
+      "进阶": "熟练运用定制化物流能力 (DTC)解决实际问题",
+      "精通": "能够创新性地应用定制化物流能力 (DTC)并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_48",
+    "name": "实践操作能力",
+    "layer": 3,
+    "description": "实践操作能力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解实践操作能力的基本概念和操作方法",
+      "进阶": "熟练运用实践操作能力解决实际问题",
+      "精通": "能够创新性地应用实践操作能力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_49",
+    "name": "客户体验战略规划能力",
+    "layer": 3,
+    "description": "客户体验战略规划能力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "营销技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解客户体验战略规划能力的基本概念和操作方法",
+      "进阶": "熟练运用客户体验战略规划能力解决实际问题",
+      "精通": "能够创新性地应用客户体验战略规划能力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_50",
+    "name": "客户服务能力",
+    "layer": 3,
+    "description": "客户服务能力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "营销技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解客户服务能力的基本概念和操作方法",
+      "进阶": "熟练运用客户服务能力解决实际问题",
+      "精通": "能够创新性地应用客户服务能力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_51",
+    "name": "客服团队管理能力",
+    "layer": 3,
+    "description": "客服团队管理能力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "管理技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解客服团队管理能力的基本概念和操作方法",
+      "进阶": "熟练运用客服团队管理能力解决实际问题",
+      "精通": "能够创新性地应用客服团队管理能力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_52",
+    "name": "对数据敏感",
+    "layer": 3,
+    "description": "对数据敏感是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解对数据敏感的基本概念和操作方法",
+      "进阶": "熟练运用对数据敏感解决实际问题",
+      "精通": "能够创新性地应用对数据敏感并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_53",
+    "name": "小语种能力",
+    "layer": 3,
+    "description": "小语种能力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解小语种能力的基本概念和操作方法",
+      "进阶": "熟练运用小语种能力解决实际问题",
+      "精通": "能够创新性地应用小语种能力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_54",
+    "name": "市场战略规划能力",
+    "layer": 3,
+    "description": "市场战略规划能力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解市场战略规划能力的基本概念和操作方法",
+      "进阶": "熟练运用市场战略规划能力解决实际问题",
+      "精通": "能够创新性地应用市场战略规划能力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_55",
+    "name": "市场调研和数据分析能力",
+    "layer": 3,
+    "description": "市场调研和数据分析能力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解市场调研和数据分析能力的基本概念和操作方法",
+      "进阶": "熟练运用市场调研和数据分析能力解决实际问题",
+      "精通": "能够创新性地应用市场调研和数据分析能力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_56",
+    "name": "市场调研能力",
+    "layer": 3,
+    "description": "市场调研能力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解市场调研能力的基本概念和操作方法",
+      "进阶": "熟练运用市场调研能力解决实际问题",
+      "精通": "能够创新性地应用市场调研能力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_57",
+    "name": "广告投放能力",
+    "layer": 3,
+    "description": "广告投放能力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解广告投放能力的基本概念和操作方法",
+      "进阶": "熟练运用广告投放能力解决实际问题",
+      "精通": "能够创新性地应用广告投放能力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_58",
+    "name": "应对汇率波动等风险",
+    "layer": 3,
+    "description": "应对汇率波动等风险是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解应对汇率波动等风险的基本概念和操作方法",
+      "进阶": "熟练运用应对汇率波动等风险解决实际问题",
+      "精通": "能够创新性地应用应对汇率波动等风险并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_59",
+    "name": "建立供应链风险管理机制，降低供应链风险",
+    "layer": 3,
+    "description": "建立供应链风险管理机制，降低供应链风险是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "管理技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解建立供应链风险管理机制，降低供应链风险的基本概念和操作方法",
+      "进阶": "熟练运用建立供应链风险管理机制，降低供应链风险解决实际问题",
+      "精通": "能够创新性地应用建立供应链风险管理机制，降低供应链风险并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_60",
+    "name": "建立和管理全球化品牌，提升品牌价值和影响力",
+    "layer": 3,
+    "description": "建立和管理全球化品牌，提升品牌价值和影响力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "营销技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解建立和管理全球化品牌，提升品牌价值和影响力的基本概念和操作方法",
+      "进阶": "熟练运用建立和管理全球化品牌，提升品牌价值和影响力解决实际问题",
+      "精通": "能够创新性地应用建立和管理全球化品牌，提升品牌价值和影响力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_61",
+    "name": "建立和管理客户忠诚度计划，提高客户留存率和复购率",
+    "layer": 3,
+    "description": "建立和管理客户忠诚度计划，提高客户留存率和复购率是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "营销技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解建立和管理客户忠诚度计划，提高客户留存率和复购率的基本概念和操作方法",
+      "进阶": "熟练运用建立和管理客户忠诚度计划，提高客户留存率和复购率解决实际问题",
+      "精通": "能够创新性地应用建立和管理客户忠诚度计划，提高客户留存率和复购率并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_62",
+    "name": "建立数据分析模型，预测市场趋势和销售情况",
+    "layer": 3,
+    "description": "建立数据分析模型，预测市场趋势和销售情况是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解建立数据分析模型，预测市场趋势和销售情况的基本概念和操作方法",
+      "进阶": "熟练运用建立数据分析模型，预测市场趋势和销售情况解决实际问题",
+      "精通": "能够创新性地应用建立数据分析模型，预测市场趋势和销售情况并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_63",
+    "name": "战略规划能力",
+    "layer": 3,
+    "description": "战略规划能力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解战略规划能力的基本概念和操作方法",
+      "进阶": "熟练运用战略规划能力解决实际问题",
+      "精通": "能够创新性地应用战略规划能力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_64",
+    "name": "技术应用能力",
+    "layer": 3,
+    "description": "技术应用能力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "技术技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解技术应用能力的基本概念和操作方法",
+      "进阶": "熟练运用技术应用能力解决实际问题",
+      "精通": "能够创新性地应用技术应用能力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_65",
+    "name": "技术应用能力（客服）",
+    "layer": 3,
+    "description": "技术应用能力（客服）是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "技术技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解技术应用能力（客服）的基本概念和操作方法",
+      "进阶": "熟练运用技术应用能力（客服）解决实际问题",
+      "精通": "能够创新性地应用技术应用能力（客服）并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_66",
+    "name": "技术应用能力（市场）",
+    "layer": 3,
+    "description": "技术应用能力（市场）是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "技术技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解技术应用能力（市场）的基本概念和操作方法",
+      "进阶": "熟练运用技术应用能力（市场）解决实际问题",
+      "精通": "能够创新性地应用技术应用能力（市场）并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_67",
+    "name": "技术应用能力（物流）",
+    "layer": 3,
+    "description": "技术应用能力（物流）是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "技术技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解技术应用能力（物流）的基本概念和操作方法",
+      "进阶": "熟练运用技术应用能力（物流）解决实际问题",
+      "精通": "能够创新性地应用技术应用能力（物流）并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_68",
+    "name": "技术理解力与业务洞察力的结合",
+    "layer": 3,
+    "description": "技术理解力与业务洞察力的结合是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "技术技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解技术理解力与业务洞察力的结合的基本概念和操作方法",
+      "进阶": "熟练运用技术理解力与业务洞察力的结合解决实际问题",
+      "精通": "能够创新性地应用技术理解力与业务洞察力的结合并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_69",
+    "name": "提出改进跨境电商物流的新方法以及重塑企业产业链与价值链的新思路",
+    "layer": 3,
+    "description": "提出改进跨境电商物流的新方法以及重塑企业产业链与价值链的新思路是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解提出改进跨境电商物流的新方法以及重塑企业产业链与价值链的新思路的基本概念和操作方法",
+      "进阶": "熟练运用提出改进跨境电商物流的新方法以及重塑企业产业链与价值链的新思路解决实际问题",
+      "精通": "能够创新性地应用提出改进跨境电商物流的新方法以及重塑企业产业链与价值链的新思路并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_70",
+    "name": "搜索引擎营销 (SEM)",
+    "layer": 3,
+    "description": "搜索引擎营销 (SEM)是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "营销技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解搜索引擎营销 (SEM)的基本概念和操作方法",
+      "进阶": "熟练运用搜索引擎营销 (SEM)解决实际问题",
+      "精通": "能够创新性地应用搜索引擎营销 (SEM)并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_71",
+    "name": "数据分析和报告",
+    "layer": 3,
+    "description": "数据分析和报告是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解数据分析和报告的基本概念和操作方法",
+      "进阶": "熟练运用数据分析和报告解决实际问题",
+      "精通": "能够创新性地应用数据分析和报告并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_72",
+    "name": "数据分析能力",
+    "layer": 3,
+    "description": "数据分析能力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解数据分析能力的基本概念和操作方法",
+      "进阶": "熟练运用数据分析能力解决实际问题",
+      "精通": "能够创新性地应用数据分析能力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_73",
+    "name": "数据驱动决策能力 (DTC)",
+    "layer": 3,
+    "description": "数据驱动决策能力 (DTC)是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解数据驱动决策能力 (DTC)的基本概念和操作方法",
+      "进阶": "熟练运用数据驱动决策能力 (DTC)解决实际问题",
+      "精通": "能够创新性地应用数据驱动决策能力 (DTC)并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_74",
+    "name": "智能选品、AI 营销等实战能力",
+    "layer": 3,
+    "description": "智能选品、AI 营销等实战能力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "营销技能",
+    "difficulty_level": "高级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解智能选品、AI 营销等实战能力的基本概念和操作方法",
+      "进阶": "熟练运用智能选品、AI 营销等实战能力解决实际问题",
+      "精通": "能够创新性地应用智能选品、AI 营销等实战能力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_75",
+    "name": "最后一公里配送能力 (B2C)",
+    "layer": 3,
+    "description": "最后一公里配送能力 (B2C)是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解最后一公里配送能力 (B2C)的基本概念和操作方法",
+      "进阶": "熟练运用最后一公里配送能力 (B2C)解决实际问题",
+      "精通": "能够创新性地应用最后一公里配送能力 (B2C)并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_76",
+    "name": "案例研讨、角色扮演",
+    "layer": 3,
+    "description": "案例研讨、角色扮演是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解案例研讨、角色扮演的基本概念和操作方法",
+      "进阶": "熟练运用案例研讨、角色扮演解决实际问题",
+      "精通": "能够创新性地应用案例研讨、角色扮演并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_77",
+    "name": "海外仓管理工具知识",
+    "layer": 3,
+    "description": "海外仓管理工具知识是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "管理技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解海外仓管理工具知识的基本概念和操作方法",
+      "进阶": "熟练运用海外仓管理工具知识解决实际问题",
+      "精通": "能够创新性地应用海外仓管理工具知识并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_78",
+    "name": "海外营销与推广能力",
+    "layer": 3,
+    "description": "海外营销与推广能力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "营销技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解海外营销与推广能力的基本概念和操作方法",
+      "进阶": "熟练运用海外营销与推广能力解决实际问题",
+      "精通": "能够创新性地应用海外营销与推广能力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_79",
+    "name": "消费者洞察能力 (B2C)",
+    "layer": 3,
+    "description": "消费者洞察能力 (B2C)是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解消费者洞察能力 (B2C)的基本概念和操作方法",
+      "进阶": "熟练运用消费者洞察能力 (B2C)解决实际问题",
+      "精通": "能够创新性地应用消费者洞察能力 (B2C)并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_80",
+    "name": "熟悉目标市场语言、文化、消费习惯",
+    "layer": 3,
+    "description": "熟悉目标市场语言、文化、消费习惯是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解熟悉目标市场语言、文化、消费习惯的基本概念和操作方法",
+      "进阶": "熟练运用熟悉目标市场语言、文化、消费习惯解决实际问题",
+      "精通": "能够创新性地应用熟悉目标市场语言、文化、消费习惯并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_81",
+    "name": "熟悉绿色供应链管理",
+    "layer": 3,
+    "description": "熟悉绿色供应链管理是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "管理技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解熟悉绿色供应链管理的基本概念和操作方法",
+      "进阶": "熟练运用熟悉绿色供应链管理解决实际问题",
+      "精通": "能够创新性地应用熟悉绿色供应链管理并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_82",
+    "name": "熟悉计算机应用，掌握 office 办公软件",
+    "layer": 3,
+    "description": "熟悉计算机应用，掌握 office 办公软件是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解熟悉计算机应用，掌握 office 办公软件的基本概念和操作方法",
+      "进阶": "熟练运用熟悉计算机应用，掌握 office 办公软件解决实际问题",
+      "精通": "能够创新性地应用熟悉计算机应用，掌握 office 办公软件并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_83",
+    "name": "物流成本计算与分析",
+    "layer": 3,
+    "description": "物流成本计算与分析是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解物流成本计算与分析的基本概念和操作方法",
+      "进阶": "熟练运用物流成本计算与分析解决实际问题",
+      "精通": "能够创新性地应用物流成本计算与分析并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_84",
+    "name": "物流报关",
+    "layer": 3,
+    "description": "物流报关是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解物流报关的基本概念和操作方法",
+      "进阶": "熟练运用物流报关解决实际问题",
+      "精通": "能够创新性地应用物流报关并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_85",
+    "name": "物流操作能力",
+    "layer": 3,
+    "description": "物流操作能力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解物流操作能力的基本概念和操作方法",
+      "进阶": "熟练运用物流操作能力解决实际问题",
+      "精通": "能够创新性地应用物流操作能力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_86",
+    "name": "物流方案选择与优化",
+    "layer": 3,
+    "description": "物流方案选择与优化是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解物流方案选择与优化的基本概念和操作方法",
+      "进阶": "熟练运用物流方案选择与优化解决实际问题",
+      "精通": "能够创新性地应用物流方案选择与优化并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_87",
+    "name": "物流空间学",
+    "layer": 3,
+    "description": "物流空间学是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解物流空间学的基本概念和操作方法",
+      "进阶": "熟练运用物流空间学解决实际问题",
+      "精通": "能够创新性地应用物流空间学并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_88",
+    "name": "独立站的搭建和运营推广",
+    "layer": 3,
+    "description": "独立站的搭建和运营推广是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "营销技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解独立站的搭建和运营推广的基本概念和操作方法",
+      "进阶": "熟练运用独立站的搭建和运营推广解决实际问题",
+      "精通": "能够创新性地应用独立站的搭建和运营推广并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_89",
+    "name": "用户体验优化能力 (B2C)",
+    "layer": 3,
+    "description": "用户体验优化能力 (B2C)是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解用户体验优化能力 (B2C)的基本概念和操作方法",
+      "进阶": "熟练运用用户体验优化能力 (B2C)解决实际问题",
+      "精通": "能够创新性地应用用户体验优化能力 (B2C)并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_90",
+    "name": "用户增长能力 (B2C)",
+    "layer": 3,
+    "description": "用户增长能力 (B2C)是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解用户增长能力 (B2C)的基本概念和操作方法",
+      "进阶": "熟练运用用户增长能力 (B2C)解决实际问题",
+      "精通": "能够创新性地应用用户增长能力 (B2C)并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_91",
+    "name": "用户生命周期管理能力 (DTC)",
+    "layer": 3,
+    "description": "用户生命周期管理能力 (DTC)是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "管理技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解用户生命周期管理能力 (DTC)的基本概念和操作方法",
+      "进阶": "熟练运用用户生命周期管理能力 (DTC)解决实际问题",
+      "精通": "能够创新性地应用用户生命周期管理能力 (DTC)并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_92",
+    "name": "电商平台操作",
+    "layer": 3,
+    "description": "电商平台操作是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解电商平台操作的基本概念和操作方法",
+      "进阶": "熟练运用电商平台操作解决实际问题",
+      "精通": "能够创新性地应用电商平台操作并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_93",
+    "name": "社交媒体营销",
+    "layer": 3,
+    "description": "社交媒体营销是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "营销技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解社交媒体营销的基本概念和操作方法",
+      "进阶": "熟练运用社交媒体营销解决实际问题",
+      "精通": "能够创新性地应用社交媒体营销并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_94",
+    "name": "社区管理能力 (DTC)",
+    "layer": 3,
+    "description": "社区管理能力 (DTC)是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "管理技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解社区管理能力 (DTC)的基本概念和操作方法",
+      "进阶": "熟练运用社区管理能力 (DTC)解决实际问题",
+      "精通": "能够创新性地应用社区管理能力 (DTC)并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_95",
+    "name": "策划和执行社交媒体活动，提高品牌曝光和互动",
+    "layer": 3,
+    "description": "策划和执行社交媒体活动，提高品牌曝光和互动是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "营销技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解策划和执行社交媒体活动，提高品牌曝光和互动的基本概念和操作方法",
+      "进阶": "熟练运用策划和执行社交媒体活动，提高品牌曝光和互动解决实际问题",
+      "精通": "能够创新性地应用策划和执行社交媒体活动，提高品牌曝光和互动并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_96",
+    "name": "管理和优化 PPC 广告活动",
+    "layer": 3,
+    "description": "管理和优化 PPC 广告活动是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "管理技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解管理和优化 PPC 广告活动的基本概念和操作方法",
+      "进阶": "熟练运用管理和优化 PPC 广告活动解决实际问题",
+      "精通": "能够创新性地应用管理和优化 PPC 广告活动并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_97",
+    "name": "统筹国际物流与供应链",
+    "layer": 3,
+    "description": "统筹国际物流与供应链是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解统筹国际物流与供应链的基本概念和操作方法",
+      "进阶": "熟练运用统筹国际物流与供应链解决实际问题",
+      "精通": "能够创新性地应用统筹国际物流与供应链并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_98",
+    "name": "网红营销",
+    "layer": 3,
+    "description": "网红营销是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "营销技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解网红营销的基本概念和操作方法",
+      "进阶": "熟练运用网红营销解决实际问题",
+      "精通": "能够创新性地应用网红营销并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_99",
+    "name": "翻转课堂、课堂讨论",
+    "layer": 3,
+    "description": "翻转课堂、课堂讨论是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解翻转课堂、课堂讨论的基本概念和操作方法",
+      "进阶": "熟练运用翻转课堂、课堂讨论解决实际问题",
+      "精通": "能够创新性地应用翻转课堂、课堂讨论并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_100",
+    "name": "能够分析市场、消费者、竞争对手、店铺和产品的表现和趋势",
+    "layer": 3,
+    "description": "能够分析市场、消费者、竞争对手、店铺和产品的表现和趋势是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解能够分析市场、消费者、竞争对手、店铺和产品的表现和趋势的基本概念和操作方法",
+      "进阶": "熟练运用能够分析市场、消费者、竞争对手、店铺和产品的表现和趋势解决实际问题",
+      "精通": "能够创新性地应用能够分析市场、消费者、竞争对手、店铺和产品的表现和趋势并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_101",
+    "name": "自动化技术应用能力",
+    "layer": 3,
+    "description": "自动化技术应用能力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "技术技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解自动化技术应用能力的基本概念和操作方法",
+      "进阶": "熟练运用自动化技术应用能力解决实际问题",
+      "精通": "能够创新性地应用自动化技术应用能力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_102",
+    "name": "营销推广能力",
+    "layer": 3,
+    "description": "营销推广能力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "营销技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解营销推广能力的基本概念和操作方法",
+      "进阶": "熟练运用营销推广能力解决实际问题",
+      "精通": "能够创新性地应用营销推广能力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_103",
+    "name": "营销策略制定能力",
+    "layer": 3,
+    "description": "营销策略制定能力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "营销技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解营销策略制定能力的基本概念和操作方法",
+      "进阶": "熟练运用营销策略制定能力解决实际问题",
+      "精通": "能够创新性地应用营销策略制定能力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_104",
+    "name": "行业洞察力",
+    "layer": 3,
+    "description": "行业洞察力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解行业洞察力的基本概念和操作方法",
+      "进阶": "熟练运用行业洞察力解决实际问题",
+      "精通": "能够创新性地应用行业洞察力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_105",
+    "name": "行业营销能力 (B2B)",
+    "layer": 3,
+    "description": "行业营销能力 (B2B)是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "营销技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解行业营销能力 (B2B)的基本概念和操作方法",
+      "进阶": "熟练运用行业营销能力 (B2B)解决实际问题",
+      "精通": "能够创新性地应用行业营销能力 (B2B)并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_106",
+    "name": "语言能力",
+    "layer": 3,
+    "description": "语言能力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解语言能力的基本概念和操作方法",
+      "进阶": "熟练运用语言能力解决实际问题",
+      "精通": "能够创新性地应用语言能力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_107",
+    "name": "跨境支付与结算能力",
+    "layer": 3,
+    "description": "跨境支付与结算能力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解跨境支付与结算能力的基本概念和操作方法",
+      "进阶": "熟练运用跨境支付与结算能力解决实际问题",
+      "精通": "能够创新性地应用跨境支付与结算能力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_108",
+    "name": "跨境电商 SaaS 工具掌握能力",
+    "layer": 3,
+    "description": "跨境电商 SaaS 工具掌握能力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解跨境电商 SaaS 工具掌握能力的基本概念和操作方法",
+      "进阶": "熟练运用跨境电商 SaaS 工具掌握能力解决实际问题",
+      "精通": "能够创新性地应用跨境电商 SaaS 工具掌握能力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_109",
+    "name": "跨境电商专用分析工具 (Helium 10, Jungle Scout)",
+    "layer": 3,
+    "description": "跨境电商专用分析工具 (Helium 10, Jungle Scout)是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解跨境电商专用分析工具 (Helium 10, Jungle Scout)的基本概念和操作方法",
+      "进阶": "熟练运用跨境电商专用分析工具 (Helium 10, Jungle Scout)解决实际问题",
+      "精通": "能够创新性地应用跨境电商专用分析工具 (Helium 10, Jungle Scout)并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_110",
+    "name": "跨境电商物流与供应链管理复杂性增加，对相关专业人才需求提升",
+    "layer": 3,
+    "description": "跨境电商物流与供应链管理复杂性增加，对相关专业人才需求提升是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "管理技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解跨境电商物流与供应链管理复杂性增加，对相关专业人才需求提升的基本概念和操作方法",
+      "进阶": "熟练运用跨境电商物流与供应链管理复杂性增加，对相关专业人才需求提升解决实际问题",
+      "精通": "能够创新性地应用跨境电商物流与供应链管理复杂性增加，对相关专业人才需求提升并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_111",
+    "name": "跨文化沟通能力",
+    "layer": 3,
+    "description": "跨文化沟通能力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解跨文化沟通能力的基本概念和操作方法",
+      "进阶": "熟练运用跨文化沟通能力解决实际问题",
+      "精通": "能够创新性地应用跨文化沟通能力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_112",
+    "name": "运作管理（双语）",
+    "layer": 3,
+    "description": "运作管理（双语）是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "管理技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解运作管理（双语）的基本概念和操作方法",
+      "进阶": "熟练运用运作管理（双语）解决实际问题",
+      "精通": "能够创新性地应用运作管理（双语）并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_113",
+    "name": "退换货管理能力 (B2C)",
+    "layer": 3,
+    "description": "退换货管理能力 (B2C)是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "管理技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解退换货管理能力 (B2C)的基本概念和操作方法",
+      "进阶": "熟练运用退换货管理能力 (B2C)解决实际问题",
+      "精通": "能够创新性地应用退换货管理能力 (B2C)并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_114",
+    "name": "逆向物流能力 (DTC)",
+    "layer": 3,
+    "description": "逆向物流能力 (DTC)是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解逆向物流能力 (DTC)的基本概念和操作方法",
+      "进阶": "熟练运用逆向物流能力 (DTC)解决实际问题",
+      "精通": "能够创新性地应用逆向物流能力 (DTC)并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_115",
+    "name": "配送中心规划设计",
+    "layer": 3,
+    "description": "配送中心规划设计是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解配送中心规划设计的基本概念和操作方法",
+      "进阶": "熟练运用配送中心规划设计解决实际问题",
+      "精通": "能够创新性地应用配送中心规划设计并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_116",
+    "name": "问题解决能力",
+    "layer": 3,
+    "description": "问题解决能力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解问题解决能力的基本概念和操作方法",
+      "进阶": "熟练运用问题解决能力解决实际问题",
+      "精通": "能够创新性地应用问题解决能力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_117",
+    "name": "集货、仓储、分拣、通关、国际运输、商品检验、配送",
+    "layer": 3,
+    "description": "集货、仓储、分拣、通关、国际运输、商品检验、配送是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "专业技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解集货、仓储、分拣、通关、国际运输、商品检验、配送的基本概念和操作方法",
+      "进阶": "熟练运用集货、仓储、分拣、通关、国际运输、商品检验、配送解决实际问题",
+      "精通": "能够创新性地应用集货、仓储、分拣、通关、国际运输、商品检验、配送并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_118",
+    "name": "项目管理能力",
+    "layer": 3,
+    "description": "项目管理能力是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "管理技能",
+    "difficulty_level": "中级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解项目管理能力的基本概念和操作方法",
+      "进阶": "熟练运用项目管理能力解决实际问题",
+      "精通": "能够创新性地应用项目管理能力并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  },
+  {
+    "id": "cbe_skill_119",
+    "name": "高级编程语言 (Python, SQL)",
+    "layer": 3,
+    "description": "高级编程语言 (Python, SQL)是跨境电商从业者的重要专业技能，在特定工作场景中发挥关键作用。",
+    "skill_type": "技术技能",
+    "difficulty_level": "高级",
+    "application_scenarios": [
+      "日常工作",
+      "项目执行",
+      "问题解决",
+      "业务优化"
+    ],
+    "mastery_levels": {
+      "基础": "了解高级编程语言 (Python, SQL)的基本概念和操作方法",
+      "进阶": "熟练运用高级编程语言 (Python, SQL)解决实际问题",
+      "精通": "能够创新性地应用高级编程语言 (Python, SQL)并指导他人"
+    },
+    "size": 20,
+    "color": "#10b981",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该技能实体出现在四元关系表中，代表跨境电商行业的重要技能",
+    "learning_resources": [
+      "专业书籍",
+      "在线课程",
+      "实践项目",
+      "行业交流"
+    ],
+    "industry_demand": "行业内有稳定需求"
+  }
+]

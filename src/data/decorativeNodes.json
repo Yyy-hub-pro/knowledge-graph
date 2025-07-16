@@ -1,0 +1,802 @@
+[
+  {
+    "id": "dec_l1_0",
+    "name": "",
+    "layer": 1,
+    "size": 3.8,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l1_1",
+    "name": "",
+    "layer": 1,
+    "size": 2.5,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l1_2",
+    "name": "",
+    "layer": 1,
+    "size": 4.1,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l1_3",
+    "name": "",
+    "layer": 1,
+    "size": 2.2,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l1_4",
+    "name": "",
+    "layer": 1,
+    "size": 3.5,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l1_5",
+    "name": "",
+    "layer": 1,
+    "size": 2.9,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l1_6",
+    "name": "",
+    "layer": 1,
+    "size": 4.5,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l1_7",
+    "name": "",
+    "layer": 1,
+    "size": 2.1,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l1_8",
+    "name": "",
+    "layer": 1,
+    "size": 3.3,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l1_9",
+    "name": "",
+    "layer": 1,
+    "size": 4.8,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l1_10",
+    "name": "",
+    "layer": 1,
+    "size": 2.6,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l1_11",
+    "name": "",
+    "layer": 1,
+    "size": 3.9,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l1_12",
+    "name": "",
+    "layer": 1,
+    "size": 2.3,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l1_13",
+    "name": "",
+    "layer": 1,
+    "size": 4.2,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l1_14",
+    "name": "",
+    "layer": 1,
+    "size": 3.1,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l1_15",
+    "name": "",
+    "layer": 1,
+    "size": 2.8,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l1_16",
+    "name": "",
+    "layer": 1,
+    "size": 4.6,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l1_17",
+    "name": "",
+    "layer": 1,
+    "size": 2.4,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l1_18",
+    "name": "",
+    "layer": 1,
+    "size": 3.7,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l1_19",
+    "name": "",
+    "layer": 1,
+    "size": 4.0,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l2_0",
+    "name": "",
+    "layer": 2,
+    "size": 3.8,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l2_1",
+    "name": "",
+    "layer": 2,
+    "size": 2.5,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l2_2",
+    "name": "",
+    "layer": 2,
+    "size": 4.1,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l2_3",
+    "name": "",
+    "layer": 2,
+    "size": 2.2,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l2_4",
+    "name": "",
+    "layer": 2,
+    "size": 3.5,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l2_5",
+    "name": "",
+    "layer": 2,
+    "size": 2.9,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l2_6",
+    "name": "",
+    "layer": 2,
+    "size": 4.5,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l2_7",
+    "name": "",
+    "layer": 2,
+    "size": 2.1,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l2_8",
+    "name": "",
+    "layer": 2,
+    "size": 3.3,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l2_9",
+    "name": "",
+    "layer": 2,
+    "size": 4.8,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l2_10",
+    "name": "",
+    "layer": 2,
+    "size": 2.6,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l2_11",
+    "name": "",
+    "layer": 2,
+    "size": 3.9,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l2_12",
+    "name": "",
+    "layer": 2,
+    "size": 2.3,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l2_13",
+    "name": "",
+    "layer": 2,
+    "size": 4.2,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l2_14",
+    "name": "",
+    "layer": 2,
+    "size": 3.1,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l2_15",
+    "name": "",
+    "layer": 2,
+    "size": 2.8,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l2_16",
+    "name": "",
+    "layer": 2,
+    "size": 4.6,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l2_17",
+    "name": "",
+    "layer": 2,
+    "size": 2.4,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l2_18",
+    "name": "",
+    "layer": 2,
+    "size": 3.7,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l2_19",
+    "name": "",
+    "layer": 2,
+    "size": 4.0,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l2_20",
+    "name": "",
+    "layer": 2,
+    "size": 3.2,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l2_21",
+    "name": "",
+    "layer": 2,
+    "size": 2.7,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l2_22",
+    "name": "",
+    "layer": 2,
+    "size": 4.3,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l2_23",
+    "name": "",
+    "layer": 2,
+    "size": 2.0,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l2_24",
+    "name": "",
+    "layer": 2,
+    "size": 3.6,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l2_25",
+    "name": "",
+    "layer": 2,
+    "size": 4.7,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l2_26",
+    "name": "",
+    "layer": 2,
+    "size": 3.0,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l2_27",
+    "name": "",
+    "layer": 2,
+    "size": 2.9,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l2_28",
+    "name": "",
+    "layer": 2,
+    "size": 4.4,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l2_29",
+    "name": "",
+    "layer": 2,
+    "size": 3.4,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l3_0",
+    "name": "",
+    "layer": 3,
+    "size": 3.8,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l3_1",
+    "name": "",
+    "layer": 3,
+    "size": 2.5,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l3_2",
+    "name": "",
+    "layer": 3,
+    "size": 4.1,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l3_3",
+    "name": "",
+    "layer": 3,
+    "size": 2.2,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l3_4",
+    "name": "",
+    "layer": 3,
+    "size": 3.5,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l3_5",
+    "name": "",
+    "layer": 3,
+    "size": 2.9,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l3_6",
+    "name": "",
+    "layer": 3,
+    "size": 4.5,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l3_7",
+    "name": "",
+    "layer": 3,
+    "size": 2.1,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l3_8",
+    "name": "",
+    "layer": 3,
+    "size": 3.3,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l3_9",
+    "name": "",
+    "layer": 3,
+    "size": 4.8,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l3_10",
+    "name": "",
+    "layer": 3,
+    "size": 2.6,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l3_11",
+    "name": "",
+    "layer": 3,
+    "size": 3.9,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l3_12",
+    "name": "",
+    "layer": 3,
+    "size": 2.3,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l3_13",
+    "name": "",
+    "layer": 3,
+    "size": 4.2,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l3_14",
+    "name": "",
+    "layer": 3,
+    "size": 3.1,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l3_15",
+    "name": "",
+    "layer": 3,
+    "size": 2.8,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l3_16",
+    "name": "",
+    "layer": 3,
+    "size": 4.6,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l3_17",
+    "name": "",
+    "layer": 3,
+    "size": 2.4,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l3_18",
+    "name": "",
+    "layer": 3,
+    "size": 3.7,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l3_19",
+    "name": "",
+    "layer": 3,
+    "size": 4.0,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l3_20",
+    "name": "",
+    "layer": 3,
+    "size": 3.2,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l3_21",
+    "name": "",
+    "layer": 3,
+    "size": 2.7,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l3_22",
+    "name": "",
+    "layer": 3,
+    "size": 4.3,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l3_23",
+    "name": "",
+    "layer": 3,
+    "size": 2.0,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l3_24",
+    "name": "",
+    "layer": 3,
+    "size": 3.6,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l3_25",
+    "name": "",
+    "layer": 3,
+    "size": 4.7,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l3_26",
+    "name": "",
+    "layer": 3,
+    "size": 3.0,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l3_27",
+    "name": "",
+    "layer": 3,
+    "size": 2.9,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l3_28",
+    "name": "",
+    "layer": 3,
+    "size": 4.4,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l3_29",
+    "name": "",
+    "layer": 3,
+    "size": 3.4,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l4_0",
+    "name": "",
+    "layer": 4,
+    "size": 3.8,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l4_1",
+    "name": "",
+    "layer": 4,
+    "size": 2.5,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l4_2",
+    "name": "",
+    "layer": 4,
+    "size": 4.1,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l4_3",
+    "name": "",
+    "layer": 4,
+    "size": 2.2,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l4_4",
+    "name": "",
+    "layer": 4,
+    "size": 3.5,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l4_5",
+    "name": "",
+    "layer": 4,
+    "size": 2.9,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l4_6",
+    "name": "",
+    "layer": 4,
+    "size": 4.5,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l4_7",
+    "name": "",
+    "layer": 4,
+    "size": 2.1,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l4_8",
+    "name": "",
+    "layer": 4,
+    "size": 3.3,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l4_9",
+    "name": "",
+    "layer": 4,
+    "size": 4.8,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l4_10",
+    "name": "",
+    "layer": 4,
+    "size": 2.6,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l4_11",
+    "name": "",
+    "layer": 4,
+    "size": 3.9,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l4_12",
+    "name": "",
+    "layer": 4,
+    "size": 2.3,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l4_13",
+    "name": "",
+    "layer": 4,
+    "size": 4.2,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l4_14",
+    "name": "",
+    "layer": 4,
+    "size": 3.1,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l4_15",
+    "name": "",
+    "layer": 4,
+    "size": 2.8,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l4_16",
+    "name": "",
+    "layer": 4,
+    "size": 4.6,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l4_17",
+    "name": "",
+    "layer": 4,
+    "size": 2.4,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l4_18",
+    "name": "",
+    "layer": 4,
+    "size": 3.7,
+    "color": "#4b5563",
+    "is_decorative": true
+  },
+  {
+    "id": "dec_l4_19",
+    "name": "",
+    "layer": 4,
+    "size": 4.0,
+    "color": "#4b5563",
+    "is_decorative": true
+  }
+] 

@@ -1,0 +1,461 @@
+[
+  {
+    "id": "r_3d_01",
+    "name": "数字孪生发动机3D模型",
+    "layer": 4,
+    "size": 15,
+    "color": "#ef4444",
+    "description": "交互式3D发动机模型，可拆解、旋转和模拟运转，展示内部结构与工作原理",
+    "resource_type": "3D装备模型"
+  },
+  {
+    "id": "r_3d_02",
+    "name": "品牌VI系统3D构建器",
+    "layer": 4,
+    "size": 15,
+    "color": "#ef4444",
+    "description": "交互式3D品牌VI系统构建工具，可视化展示品牌标识在不同应用场景中的立体效果",
+    "resource_type": "3D装备模型"
+  },
+  {
+    "id": "r_3d_03",
+    "name": "电商平台3D空间导航",
+    "layer": 4,
+    "size": 15,
+    "color": "#ef4444",
+    "description": "3D交互式电商平台空间导航模型，展示抖店/快手小店后台管理系统的功能布局",
+    "resource_type": "3D装备模型"
+  },
+  {
+    "id": "r_dp_01",
+    "name": "营销大师对话系统",
+    "layer": 4,
+    "size": 14,
+    "color": "#3b82f6",
+    "description": "模拟艾·里斯和杰克·特劳特的数字人对话系统，讲解品牌定位理论核心概念与案例分析",
+    "resource_type": "师生机组合的演绎数字人"
+  },
+  {
+    "id": "r_dp_02",
+    "name": "消费者行为模拟对话",
+    "layer": 4,
+    "size": 14,
+    "color": "#3b82f6",
+    "description": "基于不同消费者画像的数字人对话系统，模拟不同场景下的消费决策过程",
+    "resource_type": "师生机组合的演绎数字人"
+  },
+  {
+    "id": "r_dp_03",
+    "name": "直播销售数字人示范",
+    "layer": 4,
+    "size": 14,
+    "color": "#3b82f6",
+    "description": "模拟直播场景的数字人销售示范，展示不同阶段的话术技巧与互动方法",
+    "resource_type": "师生机组合的演绎数字人"
+  },
+  {
+    "id": "r_dp_04",
+    "name": "AI助手功能演示对话",
+    "layer": 4,
+    "size": 14,
+    "color": "#3b82f6",
+    "description": "数字人形式的ChatGPT功能演示与对话，展示在不同营销场景中的应用方法",
+    "resource_type": "师生机组合的演绎数字人"
+  },
+  {
+    "id": "r_dp_05",
+    "name": "社群运营情境对话",
+    "layer": 4,
+    "size": 14,
+    "color": "#3b82f6",
+    "description": "模拟社群管理场景的数字人对话系统，展示不同类型问题的处理方法与技巧",
+    "resource_type": "师生机组合的演绎数字人"
+  },
+  {
+    "id": "r_dp_06",
+    "name": "媒体关系互动模拟",
+    "layer": 4,
+    "size": 14,
+    "color": "#3b82f6",
+    "description": "模拟与不同类型媒体人物互动的数字人对话系统，展示媒体关系管理的技巧",
+    "resource_type": "师生机组合的演绎数字人"
+  },
+  {
+    "id": "r_dp_07",
+    "name": "新消费者行为模拟对话系统",
+    "layer": 4,
+    "size": 14,
+    "color": "#3b82f6",
+    "description": "模拟Z世代和千禧一代消费者在不同消费场景下的决策过程和行为表现，通过数字人对话展示其价值观、身份认同和社交媒体行为特征",
+    "resource_type": "师生机组合的演绎数字人"
+  },
+  {
+    "id": "r_dp_08",
+    "name": "4D品牌定位大师对话",
+    "layer": 4,
+    "size": 14,
+    "color": "#3b82f6",
+    "description": "模拟日本战略专家游川和郎的数字人对话系统，通过案例分析和互动问答形式，深入解析4D理论的四个维度及其在不同行业的应用",
+    "resource_type": "师生机组合的演绎数字人"
+  },
+  {
+    "id": "r_ani_01",
+    "name": "算法推荐机制动画",
+    "layer": 4,
+    "size": 14,
+    "color": "#f59e0b",
+    "description": "可视化抖音推荐算法的工作机制与流量分发原理，展示内容特征与用户互动的影响",
+    "resource_type": "知识与原理动画"
+  },
+  {
+    "id": "r_ani_02",
+    "name": "AARRR漏斗模型动画",
+    "layer": 4,
+    "size": 14,
+    "color": "#f59e0b",
+    "description": "可视化AARRR用户增长漏斗模型的各个环节及数据流转过程，展示关键指标与转化路径",
+    "resource_type": "知识与原理动画"
+  },
+  {
+    "id": "r_ani_03",
+    "name": "SQL查询执行过程动画",
+    "layer": 4,
+    "size": 14,
+    "color": "#f59e0b",
+    "description": "可视化SQL查询语句的解析与执行过程，展示数据库索引、查询优化等核心概念",
+    "resource_type": "知识与原理动画"
+  },
+  {
+    "id": "r_ani_04",
+    "name": "Python数据处理流程动画",
+    "layer": 4,
+    "size": 14,
+    "color": "#f59e0b",
+    "description": "可视化Python数据分析的完整工作流程，展示数据清洗、转换、分析与可视化的关键步骤",
+    "resource_type": "知识与原理动画"
+  },
+  {
+    "id": "r_ani_05",
+    "name": "A/B测试原理动画",
+    "layer": 4,
+    "size": 14,
+    "color": "#f59e0b",
+    "description": "可视化A/B测试的设计与实施过程，展示实验组设置、数据收集与统计分析的方法",
+    "resource_type": "知识与原理动画"
+  },
+  {
+    "id": "r_ani_06",
+    "name": "SEO排名机制动画",
+    "layer": 4,
+    "size": 14,
+    "color": "#f59e0b",
+    "description": "可视化搜索引擎排名算法的工作原理，展示关键词匹配、页面权重等因素的影响",
+    "resource_type": "知识与原理动画"
+  },
+  {
+    "id": "r_ani_07",
+    "name": "整合营销传播模型动画",
+    "layer": 4,
+    "size": 14,
+    "color": "#f59e0b",
+    "description": "可视化整合营销传播的理论模型与实施流程，展示不同营销工具的协同作用",
+    "resource_type": "知识与原理动画"
+  },
+  {
+    "id": "r_ani_08",
+    "name": "文化符号演变动画",
+    "layer": 4,
+    "size": 14,
+    "color": "#f59e0b",
+    "description": "可视化传统文化符号的现代演变过程，展示符号语言与品牌定位的结合方式",
+    "resource_type": "知识与原理动画"
+  },
+  {
+    "id": "r_ani_09",
+    "name": "短视频制作流程动画",
+    "layer": 4,
+    "size": 14,
+    "color": "#f59e0b",
+    "description": "可视化短视频内容的策划、拍摄、剪辑与发布全流程，展示关键环节与技巧",
+    "resource_type": "知识与原理动画"
+  },
+  {
+    "id": "r_ani_10",
+    "name": "营销心理学原理动画",
+    "layer": 4,
+    "size": 14,
+    "color": "#f59e0b",
+    "description": "可视化营销心理学的核心理论与应用场景，展示消费者心理机制与营销策略的关联",
+    "resource_type": "知识与原理动画"
+  },
+  {
+    "id": "r_ani_11",
+    "name": "营销组合理论演变动画",
+    "layer": 4,
+    "size": 14,
+    "color": "#f59e0b",
+    "description": "可视化展示4P、4C、4R三大营销组合理论的历史演变、核心概念与应用场景，通过动态案例分析展示不同理论框架在传统与数字营销环境中的实践应用",
+    "resource_type": "知识与原理动画"
+  },
+  {
+    "id": "r_ani_12",
+    "name": "内容营销生态系统动画",
+    "layer": 4,
+    "size": 14,
+    "color": "#f59e0b",
+    "description": "可视化展示内容营销的完整生态系统，包括内容策略制定、内容创作、渠道分发、用户互动到效果评估的全流程，通过动态案例展示不同类型内容在用户决策旅程中的作用",
+    "resource_type": "知识与原理动画"
+  },
+  {
+    "id": "r_h5_01",
+    "name": "Midjourney提示词实验室",
+    "layer": 4,
+    "size": 14,
+    "color": "#10b981",
+    "description": "交互式Midjourney提示词实验平台，可实时调整参数并预览生成效果",
+    "resource_type": "简单的H5仿真推演可视化"
+  },
+  {
+    "id": "r_h5_02",
+    "name": "Google Analytics模拟控制台",
+    "layer": 4,
+    "size": 14,
+    "color": "#10b981",
+    "description": "交互式GA数据分析模拟平台，可进行数据筛选、报表生成与分析实践",
+    "resource_type": "简单的H5仿真推演可视化"
+  },
+  {
+    "id": "r_h5_03",
+    "name": "CRM系统操作模拟器",
+    "layer": 4,
+    "size": 14,
+    "color": "#10b981",
+    "description": "交互式CRM系统操作模拟平台，可进行客户数据管理、销售漏斗分析等操作实践",
+    "resource_type": "简单的H5仿真推演可视化"
+  },
+  {
+    "id": "r_h5_04",
+    "name": "用户分层运营实验室",
+    "layer": 4,
+    "size": 14,
+    "color": "#10b981",
+    "description": "交互式用户分层运营模拟平台，可设置不同分层标准并观察运营效果",
+    "resource_type": "简单的H5仿真推演可视化"
+  },
+  {
+    "id": "r_h5_05",
+    "name": "市场调研数据实验室",
+    "layer": 4,
+    "size": 14,
+    "color": "#10b981",
+    "description": "交互式市场调研数据分析平台，可进行问卷设计、数据收集与统计分析",
+    "resource_type": "简单的H5仿真推演可视化"
+  },
+  {
+    "id": "r_h5_06",
+    "name": "社交媒体管理控制台",
+    "layer": 4,
+    "size": 14,
+    "color": "#10b981",
+    "description": "交互式社交媒体管理模拟平台，可进行多平台内容规划、发布与数据分析",
+    "resource_type": "简单的H5仿真推演可视化"
+  },
+  {
+    "id": "r_h5_07",
+    "name": "邮件营销活动实验室",
+    "layer": 4,
+    "size": 14,
+    "color": "#10b981",
+    "description": "交互式邮件营销活动设计平台，可进行模板设计、A/B测试与效果分析",
+    "resource_type": "简单的H5仿真推演可视化"
+  },
+  {
+    "id": "r_h5_08",
+    "name": "自动化工作流设计器",
+    "layer": 4,
+    "size": 14,
+    "color": "#10b981",
+    "description": "交互式营销自动化工作流设计平台，可创建并测试自动化流程",
+    "resource_type": "简单的H5仿真推演可视化"
+  },
+  {
+    "id": "r_h5_09",
+    "name": "营销STP实验室",
+    "layer": 4,
+    "size": 14,
+    "color": "#10b981",
+    "description": "交互式STP营销策略设计平台，可进行市场细分、目标市场选择与定位实践",
+    "resource_type": "简单的H5仿真推演可视化"
+  },
+  {
+    "id": "r_h5_10",
+    "name": "微信小程序设计实验室",
+    "layer": 4,
+    "size": 14,
+    "color": "#10b981",
+    "description": "交互式微信小程序功能设计与用户流程模拟平台",
+    "resource_type": "简单的H5仿真推演可视化"
+  },
+  {
+    "id": "r_h5_11",
+    "name": "Facebook广告投放模拟器",
+    "layer": 4,
+    "size": 14,
+    "color": "#10b981",
+    "description": "交互式Facebook广告投放模拟平台，可设置受众、预算并预测效果",
+    "resource_type": "简单的H5仿真推演可视化"
+  },
+  {
+    "id": "r_h5_12",
+    "name": "活动策划与评估实验室",
+    "layer": 4,
+    "size": 14,
+    "color": "#10b981",
+    "description": "交互式营销活动策划与效果评估模拟平台，可进行全流程实践",
+    "resource_type": "简单的H5仿真推演可视化"
+  },
+  {
+    "id": "r_h5_13",
+    "name": "品牌危机公关模拟实验室",
+    "layer": 4,
+    "size": 14,
+    "color": "#10b981",
+    "description": "交互式品牌危机公关模拟平台，模拟各类品牌危机场景，学习者可扮演公关经理角色，在时间压力下做出决策，观察不同应对策略的舆情发展和品牌影响",
+    "resource_type": "简单的H5仿真推演可视化"
+  },
+  {
+    "id": "r_dp_09",
+    "name": "品牌故事大师对话",
+    "layer": 4,
+    "size": 14,
+    "color": "#3b82f6",
+    "description": "模拟著名品牌故事专家的数字人对话系统，通过经典案例分析和互动创作指导，展示品牌故事构建的核心要素和叙事技巧",
+    "resource_type": "师生机组合的演绎数字人"
+  },
+  {
+    "id": "r_dp_10",
+    "name": "直播营销大师课堂",
+    "layer": 4,
+    "size": 14,
+    "color": "#3b82f6",
+    "description": "模拟顶级直播带货专家的数字人教学系统，通过实时演示和互动问答，展示直播间氛围营造、话术技巧、商品介绍和危机处理等核心技能",
+    "resource_type": "师生机组合的演绎数字人"
+  },
+  {
+    "id": "r_dp_11",
+    "name": "用户体验设计对话实验室",
+    "layer": 4,
+    "size": 14,
+    "color": "#3b82f6",
+    "description": "模拟UX设计专家的数字人对话系统，通过案例分析和设计评审，展示用户体验设计的核心原则、方法论和最佳实践",
+    "resource_type": "师生机组合的演绎数字人"
+  },
+  {
+    "id": "r_ani_13",
+    "name": "品牌资产评估模型动画",
+    "layer": 4,
+    "size": 14,
+    "color": "#f59e0b",
+    "description": "可视化展示品牌资产评估的主要模型和方法，包括品牌价值金字塔、品牌资产十项指标等，通过动态图表展示品牌资产的构成要素和评估流程",
+    "resource_type": "知识与原理动画"
+  },
+  {
+    "id": "r_ani_14",
+    "name": "SWOT分析方法论动画",
+    "layer": 4,
+    "size": 14,
+    "color": "#f59e0b",
+    "description": "可视化展示SWOT分析的完整流程和方法论，通过动态案例展示如何识别企业内外部环境因素并制定相应策略",
+    "resource_type": "知识与原理动画"
+  },
+  {
+    "id": "r_ani_15",
+    "name": "全渠道营销整合动画",
+    "layer": 4,
+    "size": 14,
+    "color": "#f59e0b",
+    "description": "可视化展示全渠道营销的核心理念和实施框架，通过动态流程图展示不同渠道间的数据流转和用户旅程",
+    "resource_type": "知识与原理动画"
+  },
+  {
+    "id": "r_ani_16",
+    "name": "用户生命周期管理动画",
+    "layer": 4,
+    "size": 14,
+    "color": "#f59e0b",
+    "description": "可视化展示用户从获取到流失的完整生命周期，通过动态图表展示各阶段的关键指标和干预策略",
+    "resource_type": "知识与原理动画"
+  },
+  {
+    "id": "r_ani_17",
+    "name": "营销心理学应用动画",
+    "layer": 4,
+    "size": 14,
+    "color": "#f59e0b",
+    "description": "可视化展示主要营销心理学原理在实际营销场景中的应用，包括锚定效应、稀缺效应、从众心理等在产品定价、促销设计和用户界面中的运用",
+    "resource_type": "知识与原理动画"
+  },
+  {
+    "id": "r_ani_18",
+    "name": "品牌传播策略动画",
+    "layer": 4,
+    "size": 14,
+    "color": "#f59e0b",
+    "description": "可视化展示品牌传播策略的规划与执行流程，通过动态案例展示不同传播渠道的特点和整合方法",
+    "resource_type": "知识与原理动画"
+  },
+  {
+    "id": "r_ani_19",
+    "name": "企业品牌认知建设动画",
+    "layer": 4,
+    "size": 14,
+    "color": "#f59e0b",
+    "description": "可视化展示企业品牌认知建设的系统方法和关键环节，通过动态案例展示品牌认知从无到有的培养过程",
+    "resource_type": "知识与原理动画"
+  },
+  {
+    "id": "r_h5_14",
+    "name": "A/B测试实验设计平台",
+    "layer": 4,
+    "size": 14,
+    "color": "#10b981",
+    "description": "交互式A/B测试设计与分析平台，允许学习者设计实验方案、模拟数据收集过程并进行统计分析，直观理解A/B测试的科学原理和实施方法",
+    "resource_type": "简单的H5仿真推演可视化"
+  },
+  {
+    "id": "r_h5_15",
+    "name": "营销预算规划模拟器",
+    "layer": 4,
+    "size": 14,
+    "color": "#10b981",
+    "description": "交互式营销预算分配模拟平台，允许学习者在不同营销渠道间调整预算分配，并观察各种分配方案对关键绩效指标的影响",
+    "resource_type": "简单的H5仿真推演可视化"
+  },
+  {
+    "id": "r_h5_16",
+    "name": "营销ROI分析实验室",
+    "layer": 4,
+    "size": 14,
+    "color": "#10b981",
+    "description": "交互式营销投资回报分析平台，允许学习者输入不同营销活动的成本和收益数据，计算ROI并进行可视化对比分析",
+    "resource_type": "简单的H5仿真推演可视化"
+  },
+  {
+    "id": "r_h5_17",
+    "name": "Google Ads投放模拟器",
+    "layer": 4,
+    "size": 14,
+    "color": "#10b981",
+    "description": "交互式Google Ads广告投放模拟平台，允许学习者设置广告系列、选择关键词、设定出价策略，并观察模拟效果数据",
+    "resource_type": "简单的H5仿真推演可视化"
+  },
+  {
+    "id": "r_h5_18",
+    "name": "SEO/SEM优化实验室",
+    "layer": 4,
+    "size": 14,
+    "color": "#10b981",
+    "description": "交互式搜索引擎优化与营销实验平台，允许学习者分析网站SEO问题、实施优化方案，并观察排名变化",
+    "resource_type": "简单的H5仿真推演可视化"
+  }
+]

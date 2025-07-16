@@ -1,0 +1,4869 @@
+[
+  {
+    "id": "cbe_know_001",
+    "name": "##@内容营销与创作能力@##",
+    "layer": 4,
+    "description": "##@内容营销与创作能力@##是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_002",
+    "name": "AI 在跨境电商中的应用场景",
+    "layer": 4,
+    "description": "AI 在跨境电商中的应用场景是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "技术理论",
+    "complexity_level": "高",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_003",
+    "name": "AI 在跨境电商中的应用场景 (智能选品、AI 营销、智能客服)",
+    "layer": 4,
+    "description": "AI 在跨境电商中的应用场景 (智能选品、AI 营销、智能客服)是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "技术理论",
+    "complexity_level": "高",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_004",
+    "name": "AIGC技术如何加快跨境电商发展的知识",
+    "layer": 4,
+    "description": "AIGC技术如何加快跨境电商发展的知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "技术理论",
+    "complexity_level": "高",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_005",
+    "name": "AI、大数据、AR/VR 等创新营销方式知识",
+    "layer": 4,
+    "description": "AI、大数据、AR/VR 等创新营销方式知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "技术理论",
+    "complexity_level": "高",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_006",
+    "name": "AI驱动效率提升的案例知识（亚马逊COSMO系统、AI设计工具）",
+    "layer": 4,
+    "description": "AI驱动效率提升的案例知识（亚马逊COSMO系统、AI设计工具）是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "技术理论",
+    "complexity_level": "高",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_007",
+    "name": "B2B模式下的专业内容创作知识（白皮书、案例研究、技术文档）",
+    "layer": 4,
+    "description": "B2B模式下的专业内容创作知识（白皮书、案例研究、技术文档）是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "技术理论",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_008",
+    "name": "B2B模式下的合同管理知识",
+    "layer": 4,
+    "description": "B2B模式下的合同管理知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_009",
+    "name": "B2B模式下的商务谈判知识",
+    "layer": 4,
+    "description": "B2B模式下的商务谈判知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "商务知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_010",
+    "name": "B2B模式下的大宗货物运输知识",
+    "layer": 4,
+    "description": "B2B模式下的大宗货物运输知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_011",
+    "name": "B2B跨境电商市场规模与增长趋势知识",
+    "layer": 4,
+    "description": "B2B跨境电商市场规模与增长趋势知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "商务知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_012",
+    "name": "B2C模式下的消费者洞察知识",
+    "layer": 4,
+    "description": "B2C模式下的消费者洞察知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_013",
+    "name": "B2C模式下的用户体验优化知识",
+    "layer": 4,
+    "description": "B2C模式下的用户体验优化知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_014",
+    "name": "B2C模式下的用户增长知识",
+    "layer": 4,
+    "description": "B2C模式下的用户增长知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_015",
+    "name": "B2C模式下的退换货管理知识",
+    "layer": 4,
+    "description": "B2C模式下的退换货管理知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_016",
+    "name": "CPC广告优化知识",
+    "layer": 4,
+    "description": "CPC广告优化知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_017",
+    "name": "DTC模式下的品牌运营知识",
+    "layer": 4,
+    "description": "DTC模式下的品牌运营知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_018",
+    "name": "DTC模式下的定制化物流知识",
+    "layer": 4,
+    "description": "DTC模式下的定制化物流知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_019",
+    "name": "DTC模式下的数据驱动决策知识",
+    "layer": 4,
+    "description": "DTC模式下的数据驱动决策知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_020",
+    "name": "DTC模式下的社区管理知识",
+    "layer": 4,
+    "description": "DTC模式下的社区管理知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_021",
+    "name": "DTC模式下的逆向物流知识",
+    "layer": 4,
+    "description": "DTC模式下的逆向物流知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_022",
+    "name": "DTC独立站从0到1的建设统筹知识",
+    "layer": 4,
+    "description": "DTC独立站从0到1的建设统筹知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_023",
+    "name": "Excel（高级函数应用、数据透视表、图表制作）",
+    "layer": 4,
+    "description": "Excel（高级函数应用、数据透视表、图表制作）是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "高",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_024",
+    "name": "HTML、CSS等基础编程知识",
+    "layer": 4,
+    "description": "HTML、CSS等基础编程知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "低",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_025",
+    "name": "Python、SQL等编程语言知识",
+    "layer": 4,
+    "description": "Python、SQL等编程语言知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_026",
+    "name": "RPA 跨境运营",
+    "layer": 4,
+    "description": "RPA 跨境运营是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_027",
+    "name": "SEO优化工具知识（阿里巴巴国际站）",
+    "layer": 4,
+    "description": "SEO优化工具知识（阿里巴巴国际站）是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_028",
+    "name": "WMS 系统应用、Semi-automated systems 和 AS/RS 等知识",
+    "layer": 4,
+    "description": "WMS 系统应用、Semi-automated systems 和 AS/RS 等知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "技术理论",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_029",
+    "name": "“1+X”证书制度知识",
+    "layer": 4,
+    "description": "“1+X”证书制度知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_030",
+    "name": "“3+1+1”本硕联合培养项目模式知识",
+    "layer": 4,
+    "description": "“3+1+1”本硕联合培养项目模式知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_031",
+    "name": "“丝路电商”的概念、发展新动能与相关政策",
+    "layer": 4,
+    "description": "“丝路电商”的概念、发展新动能与相关政策是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "低",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_032",
+    "name": "“全球供应链课堂”知识",
+    "layer": 4,
+    "description": "“全球供应链课堂”知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_033",
+    "name": "“课程 - 实训 - 认证”三级培养体系知识",
+    "layer": 4,
+    "description": "“课程 - 实训 - 认证”三级培养体系知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_034",
+    "name": "了解基本的 SEO、SEM 和社交媒体营销知识",
+    "layer": 4,
+    "description": "了解基本的 SEO、SEM 和社交媒体营销知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_035",
+    "name": "了解基本的海关法规和报关流程",
+    "layer": 4,
+    "description": "了解基本的海关法规和报关流程是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_036",
+    "name": "亚马逊数据分析工具知识（Helium 10、Jungle Scout、AMZScout）",
+    "layer": 4,
+    "description": "亚马逊数据分析工具知识（Helium 10、Jungle Scout、AMZScout）是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_037",
+    "name": "产品开发类岗位的具体职责（产品开发、选品）",
+    "layer": 4,
+    "description": "产品开发类岗位的具体职责（产品开发、选品）是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_038",
+    "name": "京东全球购的跨境电商供应链建构模式",
+    "layer": 4,
+    "description": "京东全球购的跨境电商供应链建构模式是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_039",
+    "name": "人工智能和机器学习在电商中的应用 (推荐系统、需求预测)",
+    "layer": 4,
+    "description": "人工智能和机器学习在电商中的应用 (推荐系统、需求预测)是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "技术理论",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_040",
+    "name": "人工智能和机器学习在电商中的应用，如推荐系统、需求预测等",
+    "layer": 4,
+    "description": "人工智能和机器学习在电商中的应用，如推荐系统、需求预测等是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "技术理论",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_041",
+    "name": "从执行者转型为策略设计者",
+    "layer": 4,
+    "description": "从执行者转型为策略设计者是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_042",
+    "name": "企业创造性项目设计方法（双语书写和陈述）",
+    "layer": 4,
+    "description": "企业创造性项目设计方法（双语书写和陈述）是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_043",
+    "name": "企业导师制度知识",
+    "layer": 4,
+    "description": "企业导师制度知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_044",
+    "name": "供应商管理知识",
+    "layer": 4,
+    "description": "供应商管理知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_045",
+    "name": "供应链可视化和协同管理平台的应用知识",
+    "layer": 4,
+    "description": "供应链可视化和协同管理平台的应用知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_046",
+    "name": "供应链建模仿真分析等内容知识",
+    "layer": 4,
+    "description": "供应链建模仿真分析等内容知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_047",
+    "name": "供应链管理类岗位的具体职责（供应链规划、物流、库存）",
+    "layer": 4,
+    "description": "供应链管理类岗位的具体职责（供应链规划、物流、库存）是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_048",
+    "name": "供应链风险管理和应对策略",
+    "layer": 4,
+    "description": "供应链风险管理和应对策略是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_049",
+    "name": "供应链风险识别、评估和应对策略",
+    "layer": 4,
+    "description": "供应链风险识别、评估和应对策略是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_050",
+    "name": "全托管模式如何重塑物流与供应链的知识",
+    "layer": 4,
+    "description": "全托管模式如何重塑物流与供应链的知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_051",
+    "name": "全球供应链的定义、组成要素与运作机制",
+    "layer": 4,
+    "description": "全球供应链的定义、组成要素与运作机制是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_052",
+    "name": "全球供应链管理",
+    "layer": 4,
+    "description": "全球供应链管理是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_053",
+    "name": "全球供应链管理的核心要素分析方法",
+    "layer": 4,
+    "description": "全球供应链管理的核心要素分析方法是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_054",
+    "name": "全球供应链网络设计的基本原理和方法",
+    "layer": 4,
+    "description": "全球供应链网络设计的基本原理和方法是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_055",
+    "name": "具备良好的英语听说读写能力，能够与国际客户进行有效沟通",
+    "layer": 4,
+    "description": "具备良好的英语听说读写能力，能够与国际客户进行有效沟通是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_056",
+    "name": "利用Python进行数据分析知识",
+    "layer": 4,
+    "description": "利用Python进行数据分析知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_057",
+    "name": "制定跨境电商物流策略和规划的方法论",
+    "layer": 4,
+    "description": "制定跨境电商物流策略和规划的方法论是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_058",
+    "name": "北京全球数据枢纽与国际数字贸易中心建设背景知识",
+    "layer": 4,
+    "description": "北京全球数据枢纽与国际数字贸易中心建设背景知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "商务知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_059",
+    "name": "北京自贸区数据跨境流动负面清单制度知识",
+    "layer": 4,
+    "description": "北京自贸区数据跨境流动负面清单制度知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_060",
+    "name": "区块链商务应用",
+    "layer": 4,
+    "description": "区块链商务应用是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "商务知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_061",
+    "name": "品牌与商业模式",
+    "layer": 4,
+    "description": "品牌与商业模式是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_062",
+    "name": "品牌故事与价值理念（可持续叙事）",
+    "layer": 4,
+    "description": "品牌故事与价值理念（可持续叙事）是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_063",
+    "name": "商务英语与跨文化交流",
+    "layer": 4,
+    "description": "商务英语与跨文化交流是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "商务知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_064",
+    "name": "商务谈判",
+    "layer": 4,
+    "description": "商务谈判是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "商务知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_065",
+    "name": "国际快递、海外仓、专线物流等不同物流模式知识",
+    "layer": 4,
+    "description": "国际快递、海外仓、专线物流等不同物流模式知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_066",
+    "name": "国际货运与货代",
+    "layer": 4,
+    "description": "国际货运与货代是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_067",
+    "name": "国际贸易实务",
+    "layer": 4,
+    "description": "国际贸易实务是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "商务知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_068",
+    "name": "国际运输与物流",
+    "layer": 4,
+    "description": "国际运输与物流是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_069",
+    "name": "国际（地区间）邮政包裹与商业快递的运作规则与差异",
+    "layer": 4,
+    "description": "国际（地区间）邮政包裹与商业快递的运作规则与差异是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_070",
+    "name": "复合型人才稀缺与分布不均问题",
+    "layer": 4,
+    "description": "复合型人才稀缺与分布不均问题是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_071",
+    "name": "大数据可视化",
+    "layer": 4,
+    "description": "大数据可视化是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_072",
+    "name": "客户关系管理 (CRM)知识",
+    "layer": 4,
+    "description": "客户关系管理 (CRM)知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_073",
+    "name": "客户服务与沟通技巧知识",
+    "layer": 4,
+    "description": "客户服务与沟通技巧知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_074",
+    "name": "平台算法和排名规则",
+    "layer": 4,
+    "description": "平台算法和排名规则是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "技术理论",
+    "complexity_level": "高",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_075",
+    "name": "平台运营类岗位的具体职责（店铺运营、产品上架、推广优化）",
+    "layer": 4,
+    "description": "平台运营类岗位的具体职责（店铺运营、产品上架、推广优化）是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_076",
+    "name": "广告管理工具知识（Teikametrics、Sellics、Pacvue）",
+    "layer": 4,
+    "description": "广告管理工具知识（Teikametrics、Sellics、Pacvue）是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_077",
+    "name": "应用新技术如 AI、聊天机器人、CRM 系统等优化客户服务",
+    "layer": 4,
+    "description": "应用新技术如 AI、聊天机器人、CRM 系统等优化客户服务是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "技术理论",
+    "complexity_level": "高",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_078",
+    "name": "技术理解力与业务洞察力的结合",
+    "layer": 4,
+    "description": "技术理解力与业务洞察力的结合是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "技术理论",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_079",
+    "name": "掌握跨境电商数据分析工具和平台知识(如Google Analytics, Helium 10)",
+    "layer": 4,
+    "description": "掌握跨境电商数据分析工具和平台知识(如Google Analytics, Helium 10)是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_080",
+    "name": "搜索引擎营销 (SEM)",
+    "layer": 4,
+    "description": "搜索引擎营销 (SEM)是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_081",
+    "name": "搜索引擎营销（SEM）知识（Google Ads、Bing Ads）",
+    "layer": 4,
+    "description": "搜索引擎营销（SEM）知识（Google Ads、Bing Ads）是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_082",
+    "name": "数字孪生技术在供应链中的应用知识",
+    "layer": 4,
+    "description": "数字孪生技术在供应链中的应用知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "技术理论",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_083",
+    "name": "数字孪生技术应用知识",
+    "layer": 4,
+    "description": "数字孪生技术应用知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "技术理论",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_084",
+    "name": "数字贸易与跨境电商方向知识",
+    "layer": 4,
+    "description": "数字贸易与跨境电商方向知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "商务知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_085",
+    "name": "数据分析类岗位的具体职责（数据收集、分析、报告）",
+    "layer": 4,
+    "description": "数据分析类岗位的具体职责（数据收集、分析、报告）是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_086",
+    "name": "数据可视化工具知识（Tableau、PowerBI）",
+    "layer": 4,
+    "description": "数据可视化工具知识（Tableau、PowerBI）是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_087",
+    "name": "数据模型与商务分析",
+    "layer": 4,
+    "description": "数据模型与商务分析是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "商务知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_088",
+    "name": "新兴支付技术知识（区块链支付、数字货币）",
+    "layer": 4,
+    "description": "新兴支付技术知识（区块链支付、数字货币）是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "技术理论",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_089",
+    "name": "无人机配送、无人仓、智能配送机器人等新技术知识",
+    "layer": 4,
+    "description": "无人机配送、无人仓、智能配送机器人等新技术知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "技术理论",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_090",
+    "name": "智能推荐系统、自然语言处理、计算机视觉、供应链预测等知识",
+    "layer": 4,
+    "description": "智能推荐系统、自然语言处理、计算机视觉、供应链预测等知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "技术理论",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_091",
+    "name": "本地化运营策略知识（制造前置、文化适配）",
+    "layer": 4,
+    "description": "本地化运营策略知识（制造前置、文化适配）是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_092",
+    "name": "案例研讨与角色扮演的教学方法论",
+    "layer": 4,
+    "description": "案例研讨与角色扮演的教学方法论是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_093",
+    "name": "欧美市场绿色可持续消费趋势与消费者偏好知识",
+    "layer": 4,
+    "description": "欧美市场绿色可持续消费趋势与消费者偏好知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "商务知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_094",
+    "name": "汇率风险管理知识",
+    "layer": 4,
+    "description": "汇率风险管理知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_095",
+    "name": "海关政策与通关流程",
+    "layer": 4,
+    "description": "海关政策与通关流程是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_096",
+    "name": "海外仓与边境仓的定义、功能与运作模式",
+    "layer": 4,
+    "description": "海外仓与边境仓的定义、功能与运作模式是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_097",
+    "name": "海外仓的运营流程和管理方法",
+    "layer": 4,
+    "description": "海外仓的运营流程和管理方法是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_098",
+    "name": "海外仓的选址和布局策略",
+    "layer": 4,
+    "description": "海外仓的选址和布局策略是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_099",
+    "name": "熟悉主流跨境电商平台规则和操作流程 (亚马逊、速卖通、Shopee 等)",
+    "layer": 4,
+    "description": "熟悉主流跨境电商平台规则和操作流程 (亚马逊、速卖通、Shopee 等)是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_100",
+    "name": "熟悉海关法规和政策，能够处理复杂的关务问题",
+    "layer": 4,
+    "description": "熟悉海关法规和政策，能够处理复杂的关务问题是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_101",
+    "name": "物流信息技术在跨境供应链中的应用（如物联网、大数据、AI 等）",
+    "layer": 4,
+    "description": "物流信息技术在跨境供应链中的应用（如物联网、大数据、AI 等）是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "技术理论",
+    "complexity_level": "高",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_102",
+    "name": "物流信息技术在跨境供应链中的应用（物联网、大数据、AI 等）",
+    "layer": 4,
+    "description": "物流信息技术在跨境供应链中的应用（物联网、大数据、AI 等）是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "技术理论",
+    "complexity_level": "高",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_103",
+    "name": "物流报关、政策法规等核心内容知识",
+    "layer": 4,
+    "description": "物流报关、政策法规等核心内容知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_104",
+    "name": "物流空间学知识",
+    "layer": 4,
+    "description": "物流空间学知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_105",
+    "name": "独立站运营、谷歌推广的技术逻辑",
+    "layer": 4,
+    "description": "独立站运营、谷歌推广的技术逻辑是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "技术理论",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_106",
+    "name": "环保材料和可循环包装知识",
+    "layer": 4,
+    "description": "环保材料和可循环包装知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_107",
+    "name": "用户生命周期管理知识",
+    "layer": 4,
+    "description": "用户生命周期管理知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_108",
+    "name": "用户画像技术",
+    "layer": 4,
+    "description": "用户画像技术是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "技术理论",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_109",
+    "name": "电子商务与物流",
+    "layer": 4,
+    "description": "电子商务与物流是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "商务知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_110",
+    "name": "目标市场文化特点和消费习惯",
+    "layer": 4,
+    "description": "目标市场文化特点和消费习惯是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "商务知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_111",
+    "name": "社交媒体营销",
+    "layer": 4,
+    "description": "社交媒体营销是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_112",
+    "name": "社交媒体营销知识（Facebook、Instagram、TikTok、YouTube）",
+    "layer": 4,
+    "description": "社交媒体营销知识（Facebook、Instagram、TikTok、YouTube）是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_113",
+    "name": "算法分析",
+    "layer": 4,
+    "description": "算法分析是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "技术理论",
+    "complexity_level": "高",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_114",
+    "name": "精益数据分析知识",
+    "layer": 4,
+    "description": "精益数据分析知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_115",
+    "name": "绿色供应链与可持续发展理念",
+    "layer": 4,
+    "description": "绿色供应链与可持续发展理念是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_116",
+    "name": "网站分析工具知识（Google Analytics）",
+    "layer": 4,
+    "description": "网站分析工具知识（Google Analytics）是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_117",
+    "name": "网红营销知识",
+    "layer": 4,
+    "description": "网红营销知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_118",
+    "name": "翻转课堂、课堂讨论的教学方法论",
+    "layer": 4,
+    "description": "翻转课堂、课堂讨论的教学方法论是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_119",
+    "name": "能够分析市场趋势和消费者需求，调整营销策略",
+    "layer": 4,
+    "description": "能够分析市场趋势和消费者需求，调整营销策略是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "商务知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_120",
+    "name": "能够制定和执行全面的营销推广计划",
+    "layer": 4,
+    "description": "能够制定和执行全面的营销推广计划是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_121",
+    "name": "能够制定跨境电商业务的整体战略和规划",
+    "layer": 4,
+    "description": "能够制定跨境电商业务的整体战略和规划是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_122",
+    "name": "能够制定跨境电商物流的整体战略和规划",
+    "layer": 4,
+    "description": "能够制定跨境电商物流的整体战略和规划是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_123",
+    "name": "能够制定跨境电商的整体客户体验战略和规划",
+    "layer": 4,
+    "description": "能够制定跨境电商的整体客户体验战略和规划是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_124",
+    "name": "能够制定跨境电商的整体市场战略和规划",
+    "layer": 4,
+    "description": "能够制定跨境电商的整体市场战略和规划是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "商务知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_125",
+    "name": "能够指导和培训初级运营人员",
+    "layer": 4,
+    "description": "能够指导和培训初级运营人员是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_126",
+    "name": "能够洞察物流行业趋势和技术发展，及时调整物流策略",
+    "layer": 4,
+    "description": "能够洞察物流行业趋势和技术发展，及时调整物流策略是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "技术理论",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_127",
+    "name": "能够管理客服团队，制定团队目标和计划",
+    "layer": 4,
+    "description": "能够管理客服团队，制定团队目标和计划是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_128",
+    "name": "能够管理营销项目，协调各方面资源，确保项目按时完成",
+    "layer": 4,
+    "description": "能够管理营销项目，协调各方面资源，确保项目按时完成是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_129",
+    "name": "能够进行基本的市场调研，收集和分析市场信息",
+    "layer": 4,
+    "description": "能够进行基本的市场调研，收集和分析市场信息是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "商务知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_130",
+    "name": "自动化仓储、自动化分拣、配送机器人等知识",
+    "layer": 4,
+    "description": "自动化仓储、自动化分拣、配送机器人等知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_131",
+    "name": "行业专业知识",
+    "layer": 4,
+    "description": "行业专业知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_132",
+    "name": "课程思政的融入方法",
+    "layer": 4,
+    "description": "课程思政的融入方法是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_133",
+    "name": "跨境支付",
+    "layer": 4,
+    "description": "跨境支付是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_134",
+    "name": "跨境支付工具知识（PayPal、Stripe、支付宝国际版、微信支付国际版）",
+    "layer": 4,
+    "description": "跨境支付工具知识（PayPal、Stripe、支付宝国际版、微信支付国际版）是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_135",
+    "name": "跨境支付相关金融法规知识（外汇管理、反洗钱）",
+    "layer": 4,
+    "description": "跨境支付相关金融法规知识（外汇管理、反洗钱）是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_136",
+    "name": "跨境物流合规要求和操作实务",
+    "layer": 4,
+    "description": "跨境物流合规要求和操作实务是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_137",
+    "name": "跨境物流成本构成和计算方法",
+    "layer": 4,
+    "description": "跨境物流成本构成和计算方法是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_138",
+    "name": "跨境电商SaaS工具知识（ERP、CRM、广告管理系统）",
+    "layer": 4,
+    "description": "跨境电商SaaS工具知识（ERP、CRM、广告管理系统）是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "技术理论",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_139",
+    "name": "跨境电商中的商品检验标准与流程",
+    "layer": 4,
+    "description": "跨境电商中的商品检验标准与流程是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_140",
+    "name": "跨境电商人才培养中的实践环节缺失问题",
+    "layer": 4,
+    "description": "跨境电商人才培养中的实践环节缺失问题是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_141",
+    "name": "跨境电商合规实务",
+    "layer": 4,
+    "description": "跨境电商合规实务是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_142",
+    "name": "跨境电商常见风险和应对策略",
+    "layer": 4,
+    "description": "跨境电商常见风险和应对策略是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_143",
+    "name": "跨境电商支付方式和结算流程",
+    "layer": 4,
+    "description": "跨境电商支付方式和结算流程是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_144",
+    "name": "跨境电商物流与供应链协同平台知识",
+    "layer": 4,
+    "description": "跨境电商物流与供应链协同平台知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_145",
+    "name": "跨境电商物流与供应链安全技术知识（网络、数据、货物安全）",
+    "layer": 4,
+    "description": "跨境电商物流与供应链安全技术知识（网络、数据、货物安全）是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "技术理论",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_146",
+    "name": "跨境电商物流基本模式 (邮政、快递、专线、海外仓)",
+    "layer": 4,
+    "description": "跨境电商物流基本模式 (邮政、快递、专线、海外仓)是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_147",
+    "name": "跨境电商物流当前发展现状及未来趋势",
+    "layer": 4,
+    "description": "跨境电商物流当前发展现状及未来趋势是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_148",
+    "name": "跨境电商物流概念与主要特征",
+    "layer": 4,
+    "description": "跨境电商物流概念与主要特征是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "低",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_149",
+    "name": "跨境电商物流管理",
+    "layer": 4,
+    "description": "跨境电商物流管理是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_150",
+    "name": "跨境电商相关法律法规和政策",
+    "layer": 4,
+    "description": "跨境电商相关法律法规和政策是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_151",
+    "name": "跨境电商相关法律法规和政策 (海关、税收、知识产权)",
+    "layer": 4,
+    "description": "跨境电商相关法律法规和政策 (海关、税收、知识产权)是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_152",
+    "name": "运作管理（双语）知识",
+    "layer": 4,
+    "description": "运作管理（双语）知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_153",
+    "name": "运营与供应链管理",
+    "layer": 4,
+    "description": "运营与供应链管理是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_154",
+    "name": "选品分析工具知识（Keepa、CamelCamelCamel、AMZShark）",
+    "layer": 4,
+    "description": "选品分析工具知识（Keepa、CamelCamelCamel、AMZShark）是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_155",
+    "name": "速卖通“全托管”模式案例的商业逻辑与供应链策略",
+    "layer": 4,
+    "description": "速卖通“全托管”模式案例的商业逻辑与供应链策略是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_156",
+    "name": "配送中心规划设计知识",
+    "layer": 4,
+    "description": "配送中心规划设计知识是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  },
+  {
+    "id": "cbe_know_157",
+    "name": "重塑企业产业链与价值链的新思路",
+    "layer": 4,
+    "description": "重塑企业产业链与价值链的新思路是跨境电商领域的专业知识，为相关技能的掌握和应用提供理论基础。",
+    "knowledge_type": "专业知识",
+    "complexity_level": "中",
+    "learning_path": [
+      "基础理论",
+      "概念理解",
+      "方法学习",
+      "实践应用"
+    ],
+    "academic_foundation": "相关专业基础课程",
+    "practical_application": "解决实际业务问题，提升工作效率",
+    "prerequisites": [
+      "专业基础",
+      "相关理论",
+      "实践经验"
+    ],
+    "assessment_criteria": [
+      "理论掌握",
+      "实践应用",
+      "问题解决",
+      "持续学习"
+    ],
+    "size": 16,
+    "color": "#8b5cf6",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该知识实体出现在四元关系表中，代表跨境电商领域的重要知识点"
+  }
+]

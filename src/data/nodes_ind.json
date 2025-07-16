@@ -1,0 +1,381 @@
+[
+  {
+    "id": "cbe_ind_01",
+    "name": "B2B 跨境电商增长",
+    "layer": 1,
+    "description": "B2B 跨境电商增长是跨境电商行业发展的重要趋势，反映了市场需求的变化和行业结构的调整。",
+    "trend_type": "市场演进",
+    "market_size": "持续发展",
+    "keywords": [
+      "跨境"
+    ],
+    "size": 35,
+    "color": "#ef4444",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该产业实体出现在四元关系表中，代表跨境电商行业的重要发展方向",
+    "related_reports": [],
+    "impact_analysis": "影响了行业人才结构和技能要求的变化"
+  },
+  {
+    "id": "cbe_ind_02",
+    "name": "B2C 模式兴起",
+    "layer": 1,
+    "description": "B2C 模式兴起是跨境电商行业发展的重要趋势，反映了市场需求的变化和行业结构的调整。",
+    "trend_type": "市场演进",
+    "market_size": "持续发展",
+    "keywords": [
+      "跨境电商"
+    ],
+    "size": 35,
+    "color": "#ef4444",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该产业实体出现在四元关系表中，代表跨境电商行业的重要发展方向",
+    "related_reports": [],
+    "impact_analysis": "影响了行业人才结构和技能要求的变化"
+  },
+  {
+    "id": "cbe_ind_03",
+    "name": "DTC (Direct-to-Consumer) 模式兴起",
+    "layer": 1,
+    "description": "DTC (Direct-to-Consumer) 模式兴起是跨境电商行业发展的重要趋势，反映了市场需求的变化和行业结构的调整。",
+    "trend_type": "市场演进",
+    "market_size": "持续发展",
+    "keywords": [
+      "跨境电商"
+    ],
+    "size": 35,
+    "color": "#ef4444",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该产业实体出现在四元关系表中，代表跨境电商行业的重要发展方向",
+    "related_reports": [],
+    "impact_analysis": "影响了行业人才结构和技能要求的变化"
+  },
+  {
+    "id": "cbe_ind_04",
+    "name": "“丝路电商”发展",
+    "layer": 1,
+    "description": "“丝路电商”发展是跨境电商行业发展的重要趋势，反映了市场需求的变化和行业结构的调整。",
+    "trend_type": "市场演进",
+    "market_size": "持续发展",
+    "keywords": [
+      "跨境电商"
+    ],
+    "size": 35,
+    "color": "#ef4444",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该产业实体出现在四元关系表中，代表跨境电商行业的重要发展方向",
+    "related_reports": [],
+    "impact_analysis": "影响了行业人才结构和技能要求的变化"
+  },
+  {
+    "id": "cbe_ind_05",
+    "name": "全球供应链网络设计",
+    "layer": 1,
+    "description": "全球供应链网络设计是跨境电商行业发展的重要趋势，反映了市场需求的变化和行业结构的调整。",
+    "trend_type": "市场演进",
+    "market_size": "持续发展",
+    "keywords": [
+      "跨境电商"
+    ],
+    "size": 35,
+    "color": "#ef4444",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该产业实体出现在四元关系表中，代表跨境电商行业的重要发展方向",
+    "related_reports": [],
+    "impact_analysis": "影响了行业人才结构和技能要求的变化"
+  },
+  {
+    "id": "cbe_ind_06",
+    "name": "全球化进程加速...##",
+    "layer": 1,
+    "description": "全球化进程加速...##是跨境电商行业发展的重要趋势，反映了市场需求的变化和行业结构的调整。",
+    "trend_type": "市场演进",
+    "market_size": "持续发展",
+    "keywords": [
+      "跨境电商"
+    ],
+    "size": 35,
+    "color": "#ef4444",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该产业实体出现在四元关系表中，代表跨境电商行业的重要发展方向",
+    "related_reports": [],
+    "impact_analysis": "影响了行业人才结构和技能要求的变化"
+  },
+  {
+    "id": "cbe_ind_07",
+    "name": "全球化进程加速和数字技术快速发展",
+    "layer": 1,
+    "description": "全球化进程加速和数字技术快速发展是跨境电商行业发展的重要趋势，反映了市场需求的变化和行业结构的调整。",
+    "trend_type": "技术创新",
+    "market_size": "持续发展",
+    "keywords": [
+      "技术"
+    ],
+    "size": 35,
+    "color": "#ef4444",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该产业实体出现在四元关系表中，代表跨境电商行业的重要发展方向",
+    "related_reports": [],
+    "impact_analysis": "影响了行业人才结构和技能要求的变化"
+  },
+  {
+    "id": "cbe_ind_08",
+    "name": "北京作为国家首都和国际化大都市...##",
+    "layer": 1,
+    "description": "北京作为国家首都和国际化大都市...##是跨境电商行业发展的重要趋势，反映了市场需求的变化和行业结构的调整。",
+    "trend_type": "市场演进",
+    "market_size": "持续发展",
+    "keywords": [
+      "跨境"
+    ],
+    "size": 35,
+    "color": "#ef4444",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该产业实体出现在四元关系表中，代表跨境电商行业的重要发展方向",
+    "related_reports": [],
+    "impact_analysis": "影响了行业人才结构和技能要求的变化"
+  },
+  {
+    "id": "cbe_ind_09",
+    "name": "技术驱动效率提升...##",
+    "layer": 1,
+    "description": "技术驱动效率提升...##是跨境电商行业发展的重要趋势，反映了市场需求的变化和行业结构的调整。",
+    "trend_type": "技术创新",
+    "market_size": "持续发展",
+    "keywords": [
+      "技术"
+    ],
+    "size": 35,
+    "color": "#ef4444",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该产业实体出现在四元关系表中，代表跨境电商行业的重要发展方向",
+    "related_reports": [],
+    "impact_analysis": "影响了行业人才结构和技能要求的变化"
+  },
+  {
+    "id": "cbe_ind_10",
+    "name": "技术驱动效率提升：AI 与大数据应用...##",
+    "layer": 1,
+    "description": "技术驱动效率提升：AI 与大数据应用...##是跨境电商行业发展的重要趋势，反映了市场需求的变化和行业结构的调整。",
+    "trend_type": "技术创新",
+    "market_size": "持续发展",
+    "keywords": [
+      "技术"
+    ],
+    "size": 35,
+    "color": "#ef4444",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该产业实体出现在四元关系表中，代表跨境电商行业的重要发展方向",
+    "related_reports": [],
+    "impact_analysis": "影响了行业人才结构和技能要求的变化"
+  },
+  {
+    "id": "cbe_ind_11",
+    "name": "技术驱动效率提升：AI 与大数据应用、区块链溯源等技术正广泛应用于跨境电商领域",
+    "layer": 1,
+    "description": "技术驱动效率提升：AI 与大数据应用、区块链溯源等技术正广泛应用于跨境电商领域是跨境电商行业发展的重要趋势，反映了市场需求的变化和行业结构的调整。",
+    "trend_type": "技术创新",
+    "market_size": "持续发展",
+    "keywords": [
+      "技术",
+      "跨境"
+    ],
+    "size": 35,
+    "color": "#ef4444",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该产业实体出现在四元关系表中，代表跨境电商行业的重要发展方向",
+    "related_reports": [],
+    "impact_analysis": "影响了行业人才结构和技能要求的变化"
+  },
+  {
+    "id": "cbe_ind_12",
+    "name": "数字孪生技术应用",
+    "layer": 1,
+    "description": "数字孪生技术应用是跨境电商行业发展的重要趋势，反映了市场需求的变化和行业结构的调整。",
+    "trend_type": "技术创新",
+    "market_size": "持续发展",
+    "keywords": [
+      "技术"
+    ],
+    "size": 35,
+    "color": "#ef4444",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该产业实体出现在四元关系表中，代表跨境电商行业的重要发展方向",
+    "related_reports": [],
+    "impact_analysis": "影响了行业人才结构和技能要求的变化"
+  },
+  {
+    "id": "cbe_ind_13",
+    "name": "数据跨境流动...##",
+    "layer": 1,
+    "description": "数据跨境流动...##是跨境电商行业发展的重要趋势，反映了市场需求的变化和行业结构的调整。",
+    "trend_type": "市场演进",
+    "market_size": "持续发展",
+    "keywords": [
+      "技术",
+      "跨境"
+    ],
+    "size": 35,
+    "color": "#ef4444",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该产业实体出现在四元关系表中，代表跨境电商行业的重要发展方向",
+    "related_reports": [],
+    "impact_analysis": "影响了行业人才结构和技能要求的变化"
+  },
+  {
+    "id": "cbe_ind_14",
+    "name": "数据跨境流动：在自贸试验区内率先推行数据跨境流动负面清单制度",
+    "layer": 1,
+    "description": "数据跨境流动：在自贸试验区内率先推行数据跨境流动负面清单制度是跨境电商行业发展的重要趋势，反映了市场需求的变化和行业结构的调整。",
+    "trend_type": "市场演进",
+    "market_size": "持续发展",
+    "keywords": [
+      "技术",
+      "跨境"
+    ],
+    "size": 35,
+    "color": "#ef4444",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该产业实体出现在四元关系表中，代表跨境电商行业的重要发展方向",
+    "related_reports": [],
+    "impact_analysis": "影响了行业人才结构和技能要求的变化"
+  },
+  {
+    "id": "cbe_ind_15",
+    "name": "本地化运营深化...##",
+    "layer": 1,
+    "description": "本地化运营深化...##是跨境电商行业发展的重要趋势，反映了市场需求的变化和行业结构的调整。",
+    "trend_type": "市场演进",
+    "market_size": "持续发展",
+    "keywords": [
+      "运营"
+    ],
+    "size": 35,
+    "color": "#ef4444",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该产业实体出现在四元关系表中，代表跨境电商行业的重要发展方向",
+    "related_reports": [],
+    "impact_analysis": "影响了行业人才结构和技能要求的变化"
+  },
+  {
+    "id": "cbe_ind_16",
+    "name": "本地化运营深化：制造前置、文化适配等本地化策略成为行业趋势",
+    "layer": 1,
+    "description": "本地化运营深化：制造前置、文化适配等本地化策略成为行业趋势是跨境电商行业发展的重要趋势，反映了市场需求的变化和行业结构的调整。",
+    "trend_type": "市场演进",
+    "market_size": "持续发展",
+    "keywords": [
+      "运营"
+    ],
+    "size": 35,
+    "color": "#ef4444",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该产业实体出现在四元关系表中，代表跨境电商行业的重要发展方向",
+    "related_reports": [],
+    "impact_analysis": "影响了行业人才结构和技能要求的变化"
+  },
+  {
+    "id": "cbe_ind_17",
+    "name": "绿色可持续消费...##",
+    "layer": 1,
+    "description": "绿色可持续消费...##是跨境电商行业发展的重要趋势，反映了市场需求的变化和行业结构的调整。",
+    "trend_type": "市场演进",
+    "market_size": "持续发展",
+    "keywords": [
+      "跨境电商"
+    ],
+    "size": 35,
+    "color": "#ef4444",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该产业实体出现在四元关系表中，代表跨境电商行业的重要发展方向",
+    "related_reports": [],
+    "impact_analysis": "影响了行业人才结构和技能要求的变化"
+  },
+  {
+    "id": "cbe_ind_18",
+    "name": "绿色可持续消费：环保意识在欧美市场尤为突出",
+    "layer": 1,
+    "description": "绿色可持续消费：环保意识在欧美市场尤为突出是跨境电商行业发展的重要趋势，反映了市场需求的变化和行业结构的调整。",
+    "trend_type": "市场演进",
+    "market_size": "持续发展",
+    "keywords": [
+      "跨境电商"
+    ],
+    "size": 35,
+    "color": "#ef4444",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该产业实体出现在四元关系表中，代表跨境电商行业的重要发展方向",
+    "related_reports": [],
+    "impact_analysis": "影响了行业人才结构和技能要求的变化"
+  },
+  {
+    "id": "cbe_ind_19",
+    "name": "自动化与机器人技术...##",
+    "layer": 1,
+    "description": "自动化与机器人技术...##是跨境电商行业发展的重要趋势，反映了市场需求的变化和行业结构的调整。",
+    "trend_type": "技术创新",
+    "market_size": "持续发展",
+    "keywords": [
+      "技术"
+    ],
+    "size": 35,
+    "color": "#ef4444",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该产业实体出现在四元关系表中，代表跨境电商行业的重要发展方向",
+    "related_reports": [],
+    "impact_analysis": "影响了行业人才结构和技能要求的变化"
+  },
+  {
+    "id": "cbe_ind_20",
+    "name": "自动化与机器人技术：在跨境电商物流中得到更广泛的应用",
+    "layer": 1,
+    "description": "自动化与机器人技术：在跨境电商物流中得到更广泛的应用是跨境电商行业发展的重要趋势，反映了市场需求的变化和行业结构的调整。",
+    "trend_type": "技术创新",
+    "market_size": "持续发展",
+    "keywords": [
+      "技术",
+      "跨境"
+    ],
+    "size": 35,
+    "color": "#ef4444",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该产业实体出现在四元关系表中，代表跨境电商行业的重要发展方向",
+    "related_reports": [],
+    "impact_analysis": "影响了行业人才结构和技能要求的变化"
+  },
+  {
+    "id": "cbe_ind_21",
+    "name": "跨境电商物流与供应链协同平台发展",
+    "layer": 1,
+    "description": "跨境电商物流与供应链协同平台发展是跨境电商行业发展的重要趋势，反映了市场需求的变化和行业结构的调整。",
+    "trend_type": "市场演进",
+    "market_size": "持续发展",
+    "keywords": [
+      "跨境"
+    ],
+    "size": 35,
+    "color": "#ef4444",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该产业实体出现在四元关系表中，代表跨境电商行业的重要发展方向",
+    "related_reports": [],
+    "impact_analysis": "影响了行业人才结构和技能要求的变化"
+  },
+  {
+    "id": "cbe_ind_22",
+    "name": "跨境电商物流与供应链安全技术受重视",
+    "layer": 1,
+    "description": "跨境电商物流与供应链安全技术受重视是跨境电商行业发展的重要趋势，反映了市场需求的变化和行业结构的调整。",
+    "trend_type": "技术创新",
+    "market_size": "持续发展",
+    "keywords": [
+      "技术",
+      "跨境"
+    ],
+    "size": 35,
+    "color": "#ef4444",
+    "original_location": "从四元关系表中提取",
+    "evidence_source": "该产业实体出现在四元关系表中，代表跨境电商行业的重要发展方向",
+    "related_reports": [],
+    "impact_analysis": "影响了行业人才结构和技能要求的变化"
+  }
+]
